@@ -2,6 +2,4 @@ site_name: TradeTracker — Documentation
 theme:
   name: material
   palette:
-    scheme: slate
-    primary: indigo
-    accent: amber
+    primary: amber
