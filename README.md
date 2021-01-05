@@ -1,6 +1,6 @@
 # TradeTracker Docs
 
-This is the documentation for https://beta.tradetracker.app, which is availabe at https://docs.tradetracker.app, or via GitHub sites at https://tradetracker.github.io/docs/.
+This is the documentation for https://beta.tradetracker.app, which is availabe at https://docs.tradetracker.app.
 
 ![Publish docs via GitHub Pages](https://github.com/TradeTracker/docs/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
 
