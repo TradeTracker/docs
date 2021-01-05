@@ -1,18 +1,16 @@
 # TradeTracker Docs
 
-This is the documentation for https://beta.tradetracker.app, which is availabe at https://docs.tradetracker.app, or via GitHub sites at https://tradetracker.github.io/docs/.
+This is the documentation for https://beta.tradetracker.app, which is availabe at https://docs.tradetracker.app.
 
-## Build
+![Publish docs via GitHub Pages](https://github.com/TradeTracker/docs/workflows/Publish%20docs%20via%20GitHub%20Pages/badge.svg)
+
+## Build (deprecated; deployment is done with GitHub Actions)
 
  1. Install Python 3.x.x.
  2. Install MkDocs with `pip install mkdocs`.
  3. Install the material theme with `pip install mkdocs-material`.
  4. Build with `mkdocs build`.
  5. Push to `gh-pages` branch.
-
-There is an action defined to do this automatically, but they are currently having build issues? Investigate this later.
-
- * https://github.com/mhausenblas/mkdocs-deploy-gh-pages
 
 ## Contribute
 
