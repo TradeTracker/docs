@@ -1,4 +1,4 @@
-name: Greeting from Mona
+name: Print GITHUB_TOKEN
 
 on: push
 
@@ -10,5 +10,6 @@ jobs:
     - name: Print a greeting
       env:
         MY_VAR: ${{ secrets.GITHUB_TOKEN }}
+        LARS: "Lars" 
       run: |
-        echo $MY_VAR 
+        echo $MY_VAR $LARS
