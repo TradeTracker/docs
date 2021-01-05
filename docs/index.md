@@ -12,4 +12,7 @@ Once you have logged into the app, follow these steps to set-up your journal.
   * Open the calculator in the top right corner, or click on the `+` in the top right corner, to enter your first trade.
   * **API Keys (Optional):** Open your account management (top-right) and scroll down to API Keys.
 
-It's as easy as that!
+The illustration belows shows where you can find the calculator, trade set-up page, and account management.
+
+![Toolbar](toolbar.png)
+
