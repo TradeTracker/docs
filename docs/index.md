@@ -1,17 +1,15 @@
-# Welcome to MkDocs
+# Getting started
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+To gain access to [TradeTracker](https://beta.tradetracker.app), first apply for the open beta [on our website](https://tradetracker.app).
+Once you have received your account, you can login at [https://beta.tradetracker.app/login](https://beta.tradetracker.app/login).
 
-## Commands
+## First steps
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Once you have logged into the app, follow these steps to set-up your journal.
 
-## Project layout
+  * Go to `Portfolios` and create a new portfolio by clicking the `+` icon.
+  * Go to `Transactions` and add your first transaction by clicking the `+` icon.
+  * Open the calculator in the top right corner, or click on the `+` in the top right corner, to enter your first trade.
+  * **API Keys (Optional):** Open your account management (top-right) and scroll down to API Keys.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+It's as easy as that!
