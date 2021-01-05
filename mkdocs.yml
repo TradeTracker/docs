@@ -3,5 +3,5 @@ theme:
   name: material
   palette:
     primary: white
-  icon:
-    logo: images/favicon.png
+  logo: images/favicon.png
+  
