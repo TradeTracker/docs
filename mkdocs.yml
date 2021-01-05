@@ -2,4 +2,6 @@ site_name: TradeTracker — Documentation
 theme:
   name: material
   palette:
-    primary: amber
+    primary: white
+  icon:
+    logo: images/favicon.png
