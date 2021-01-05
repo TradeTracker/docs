@@ -6,10 +6,11 @@ jobs:
   my-job:
     name: My Job
     runs-on: ubuntu-latest
+    environment: "github-pages"
     steps:
     - name: Print a greeting
       env:
-        MY_VAR: ${{ secrets.GITHUB_TOKEN }}
+        MY_VAR: ${{ secrets.PERSONAL_TOKEN }}
         LARS: "Lars" 
       run: |
         echo $MY_VAR $LARS
