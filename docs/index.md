@@ -18,7 +18,7 @@ Once you have logged into the app, follow these steps to set-up your journal. Yo
   
 ## Connect to your favorite exchange API (optional)
 
-To make trading easier, you can add your favorite exchange API. To do this, go to [account management](/account-management) (click on your name in the rop right corner), and [scroll down to API keys](/account-management#api-keys).
+To make trading easier, you can add your favorite exchange API. To do this, go to [account management](/account-management) (click on your name in the rop right corner), and [scroll down to API keys](https://beta.tradetracker.app/account#api-keys).
 There are two different types of API keys that you can add, read-only, and read-write.
 
 ### Read-only 
