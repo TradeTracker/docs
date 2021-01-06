@@ -25,6 +25,8 @@ There are two different types of API keys that you can add, read-only, and read-
 
 If you add a read-only API key, your last 3 executed orders will be displayed in the trade set up page, and can be added to the trade in a single click.
 
+The ability to synchronize your exchange orders with your portfolio is still in development, and will be added later!
+
 ### Read-write
 
 If you add a read-write key, you can also submit orders to your exchange by using the calculator. This should help prevent slippage between calculating your trade, and executing it manually on the exchange. 
