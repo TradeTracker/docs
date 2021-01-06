@@ -25,7 +25,7 @@ Based on the provided variables, the following values are calculated:
 |Stop loss%| How low your stop loss price is in percentages based on your entry price.|
 |Value at risk| How much of your balance is at risk if your stop loss is hit.|
 |Entry fee|Total fee that is paid for entering the position.|
-|Exit fee|Total fee that is paid for exiting your position with a stop loss. Fee percentage calculated with a market order.|
+|Exit fee|Total fee that is paid for exiting your position with a stop loss. Fee calculated with a market order.|
 |Order cost|How much your order will cost, including fees.|
 |Order value|The value of your order, without fees.|
 
