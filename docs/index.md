@@ -8,7 +8,7 @@ Once you have received your account, you can login at [https://beta.tradetracker
 Once you have logged into the app, follow these steps to set-up your journal.
 
   * Go to `Portfolios` and create a new portfolio by clicking the `+` icon.
-  * Go to `Transactions` and add your first transaction by clicking the `+` icon.
+  * Go to `Transactions` and add your first transaction by clicking the `+` icon.Your first transaction should be a deposit type with your actual exchange balance as value, needed for calculation purpose.
   * Open the calculator in the top right corner, or click on the `+` in the top right corner, to enter your first trade.
   * **API Keys (Optional):** Open your account management (top-right) and scroll down to API Keys.
 
