@@ -10,7 +10,7 @@ Once you have received your account, you can login at [https://beta.tradetracker
 
 ## First steps
 
-Once you have logged into the app, follow these steps to set-up your journal.
+Once you have logged into the app, follow these steps to set-up your journal. You can click on these links, and they will guide you to the app.
 
   * Go to `Portfolios` and [create a new portfolio](https://beta.tradetracker.app/portfolios#new) by clicking the `+` icon.
   * Go to `Transactions` and [add your first transaction](https://beta.tradetracker.app/transcations#new) by clicking the `+` icon. Your first transaction should be a deposit with your actual exchange balance.
