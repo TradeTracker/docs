@@ -31,6 +31,6 @@ The ability to synchronize your exchange orders with your portfolio is still in 
 
 If you add a read-write key, you can also submit orders to your exchange by using the [calculator](/calculator). This should help prevent slippage between calculating your trade, and executing it manually on the exchange. 
 
-Due to security reasons, you are required to [set up 2-factor authentication](/account-management#two-factor-authentication) first before you can add a read-write API key.
+Due to security reasons, you are required to [set up 2-factor authentication](https://beta.tradetracker.app/account#two-factor-authentication) first before you can add a read-write API key.
 
 
