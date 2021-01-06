@@ -23,7 +23,7 @@ There are two different types of API keys that you can add, read-only, and read-
 
 ### Read-only 
 
-If you add a read-only API key, your last 3 executed orders will be displayed in the [trade set up page](/trade-setup), and can be added to the trade in a single click.
+If you add a read-only API key, your last 3 executed orders will be displayed in the [trade set up page](https://beta.tradetracker.app/new-trade), and can be added to the trade in a single click.
 
 The ability to synchronize your exchange orders with your portfolio is still in development, and will be added later!
 
