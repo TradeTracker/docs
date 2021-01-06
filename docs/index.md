@@ -12,25 +12,25 @@ Once you have received your account, you can login at [https://beta.tradetracker
 
 Once you have logged into the app, follow these steps to set-up your journal.
 
-  * Go to `Portfolios` and create a new portfolio by clicking the `+` icon.
-  * Go to `Transactions` and add your first transaction by clicking the `+` icon. Your first transaction should be a deposit with your actual exchange balance.
-  * Open the [calculator](/calculator) in the top right corner, or click on the `+` in the top right corner, to enter your first trade.
+  * Go to `Portfolios` and [create a new portfolio](/portfolios) by clicking the `+` icon.
+  * Go to `Transactions` and [add your first transaction](/transactions) by clicking the `+` icon. Your first transaction should be a deposit with your actual exchange balance.
+  * Open the [calculator](/calculator) in the top right corner, or click on the `+` in the top right corner, to [enter your first trade](/trade-setup).
   
 ## Connect to your favorite exchange API (Optional)
 
-To make trading easier, you can add your favorite exchange API. To do this, go to account management (click on your name in the rop right corner), and scroll down to API keys.
+To make trading easier, you can add your favorite exchange API. To do this, go to [account management](/account-management) (click on your name in the rop right corner), and [scroll down to API keys](/account-management#api-keys).
 There are two different types of API keys that you can add, read-only, and read-write.
 
 ### Read-only 
 
-If you add a read-only API key, your last 3 executed orders will be displayed in the trade set up page, and can be added to the trade in a single click.
+If you add a read-only API key, your last 3 executed orders will be displayed in the [trade set up page](/trade-setup), and can be added to the trade in a single click.
 
 The ability to synchronize your exchange orders with your portfolio is still in development, and will be added later!
 
 ### Read-write
 
-If you add a read-write key, you can also submit orders to your exchange by using the calculator. This should help prevent slippage between calculating your trade, and executing it manually on the exchange. 
+If you add a read-write key, you can also submit orders to your exchange by using the [calculator](/calculator). This should help prevent slippage between calculating your trade, and executing it manually on the exchange. 
 
-Due to security reasons, you are required to set up 2-factor authentication first before you can add a read-write API key.
+Due to security reasons, you are required to [set up 2-factor authentication](/account-management#two-factor-authentication) first before you can add a read-write API key.
 
 
