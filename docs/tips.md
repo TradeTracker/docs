@@ -2,7 +2,7 @@
 
 Here we have listed 39 tips, as described in the book "Trading Habits: 39 of the World's Most Powerful Stock Market Rules" written by Steve Burns & Holly Burns.
 
-**Foundations**
+## Foundations
 
  1. A winning trading system must either be designed to have a large winning percentage, or big wins and small losses.
  2. Your trading system must be built on quantifiable facts and not opinions.
@@ -20,7 +20,7 @@ Here we have listed 39 tips, as described in the book "Trading Habits: 39 of the
  14. Successful trading is about consistently doing the difficult thing so often that it becomes second nature. – Richard Weissman
  15. The best trades work almost right away. – ArtOfTrading.net
 
-**Emotions**
+## Emotions
 
  16. Wishful thinking must be banished. – Jesse Livermore
  17. Money is made by discounting the obvious and betting on the unexpected. – George Soros
@@ -34,7 +34,7 @@ Here we have listed 39 tips, as described in the book "Trading Habits: 39 of the
  26. One thing I have learned over the years trading is that crisis = opportunity. – Dean Karrys
  27. Going up on bad news or down on good news are among the strongest market tells. – Richard Weissman
 
- **Profitability**
+## Profitability
 
  28. Manage losses and maximize gains.
  29. The key to long-term survival and prosperity has a lot to do with the money management techniques incorporated into the technical system. – Ed Seykota
