@@ -49,4 +49,4 @@ Here we have listed 39 tips, as described in the book "Trading Habits: 39 of the
  38. Understand the nature of instability and adjust your position size for the increased risk due to volatility spikes.
  39. Place your stop losses outside the range of noise so you’re only stopped out when you’re wrong.
 
- We highly recommend to check out the book, because it will give a short description of each tip!
+ We highly recommend to check out the book, because it will give a thorough description of each tip!
