@@ -5,6 +5,6 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
 ## 2021-03-22
 
- * Added live ticker support for the following exchanges: Bitmex, Coinbase (USD, EUR, BTC), Huobi, and Bittrex.
+ * Added live ticker support for the following exchanges: Bitmex, Coinbase (USD, EUR, BTC), Huobi, Bittrex, KuCoin, and Poloniex.
  * Added a small message in the footer that refers to Discord, and GitHub.
 
