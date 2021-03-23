@@ -4,6 +4,8 @@ Tags will help you to categorize your trades based on certain labels.
 You can use these categorizations to see which tags are profitable, and which are not.
 This will help you to identify which strategies/patterns/mistakes yield your biggest losses. Likewise it will show you what is profitable, so you can focus on that more.
 
+Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
+
 ## Managing tags
 
 Tags can be added to a trade on the trade set up page. Simply enter a name for a tag, and press enter.
