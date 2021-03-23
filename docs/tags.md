@@ -1,7 +1,8 @@
 # Tags
 
 Tags will help you to categorize your trades based on certain labels.
-You can use these categorization to see which tags are profitable, and which are not.
+You can use these categorizations to see which tags are profitable, and which are not.
+This will help you to identify which strategies/patterns/mistakes yield your biggest losses. Likewise it will show you what is profitable, so you can focus on that more.
 
 ## Managing tags
 
