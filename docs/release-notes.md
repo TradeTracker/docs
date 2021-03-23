@@ -8,6 +8,9 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Added a note field to the trade set-up page.
  * Added a TradingView chart URL field to the trade set-up page.
  * Added functionality to add and remove tags on the trade set-up page.
+ * Open your added tradingview chart directly from the trades and risk/reward page.
+ * Removed the open trade button. If you now click on the row, the trade will open.
+ * Functionality to delete a trade from the risk/reward page.
 
 ## 2021-03-22
 
