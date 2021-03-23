@@ -30,4 +30,4 @@ Tags are universably applicable, so to get you started, here are a few ideas whi
  * Use elliot wave names such as `impulse`, `flat`, `zigzag`.
  * Use your mistakes as tags such as `no plan`, `no stoploss`, `closed too early`.
 
-Of course you can use anything as a tag, and we hope that we have inspired you with ideas for them.
+Of course you can use anything as a tag, and we hope that we have inspired you with ideas to use them.
