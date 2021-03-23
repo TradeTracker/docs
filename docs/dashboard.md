@@ -6,29 +6,4 @@ It is designed so that it answers important questions about your trading, for qu
 
 The dashboard works very straightforward. Below is a summary of what it provides.
 
-**Hows does the dashboard work?**
-
-## Line charts:
-
-### Balance
-
-### Mistakes
-
-### Cumulative PNL %
-
-### Drawdown
-
-
-## Bar charts:
-
-### PNL %
-
-### Risk %
-
-### R Ratio
-
-### Daily PNL %
-
-### Daily PNL
-
-### Daily R Ratio
+Under construction...
