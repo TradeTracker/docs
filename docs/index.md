@@ -5,8 +5,8 @@ Because we are currently still in a closed beta program, you will have to apply 
 
 ## Gaining access to our closed beta program
 
-To gain access to [TradeTracker](https://beta.tradetracker.app), first apply for our closed beta program [on our website](https://tradetracker.app).
-Once you have received your account, you can login at [https://beta.tradetracker.app/login](https://beta.tradetracker.app/login).
+To gain access to [TradeTracker](https://beta.tradetracker.app), you have to register [on our website](https://beta.tradetracker.app).
+Once you have received the email with your password, you can login at [https://beta.tradetracker.app/login](https://beta.tradetracker.app/login) and continue the following steps...
 
 ## First steps to start journaling
 
