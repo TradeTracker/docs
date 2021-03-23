@@ -14,6 +14,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Demo data generator will also generate a random tag.
  * All open positions are now displayed on the trades page, with live ticker updates.
  * Added pagination to the trade and risk reward pages.
+ * Minor bug fixes.
 
 
 ## 2021-03-22
