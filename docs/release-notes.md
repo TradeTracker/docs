@@ -13,6 +13,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Functionality to delete a trade from the risk/reward page.
  * Demo data generator will also generate a random tag.
  * All open positions are now displayed on the trades page, with live ticker updates.
+ * Added pagination to the trade and risk reward pages.
 
 
 ## 2021-03-22
