@@ -12,6 +12,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Removed the open trade button. If you now click on the row, the trade will open.
  * Functionality to delete a trade from the risk/reward page.
  * Demo data generator will also generate a random tag.
+ * All open positions are now displayed on the trades page, with live ticker updates.
 
 
 ## 2021-03-22
