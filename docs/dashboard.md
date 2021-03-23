@@ -15,7 +15,6 @@ Line balance chart includes all transactions, including deposits & withdrawals.
 ## Cumulative PNL %
 Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
 ![CumulativePNL](cumulativepnl.png)
-
 ## Drawdown %
 Line chart that displays the amount of drawdown you have had in percentage.
 ![CumulativePNL](cumulativepnl.png)
@@ -24,23 +23,18 @@ Line chart that displays the amount of drawdown you have had in percentage.
 ## PNL %
 Bar chart that displays your trades PNL in percentage per trade.
 ![PNL%](pnlpercent.png)
-
 # Risk %
 Bar chart that displays the risk you took in percentage per trade.
 ![Risk%](riskpercent.png)
-
 # R Ratio
 Bar chart that displays the Risk/Reward ratio per trade.
 ![PNL%](rratio.png)
-
 # Daily PNL %
 This bar chart displays the sum of all your trades PNL per day combined in percentage.
 ![DailyPNL%](dailypnlpercent.png)
-
 # Daily PNL
 This bar chart displays the sum of all your trades PNL per day combined.
 ![DailyPNL](dailypnl.png)
-
 # Daily R Ratio
 Bar chart that displays the Risk/Reward combined per day.
 ![DailyRRatio](dailyrratio.png)
