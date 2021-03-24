@@ -7,7 +7,9 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Rewrote the getting started section on [docs.tradetracker.app](https://docs.tradetracker.app).
  * Trade set up page will now display the fees for each order, and also the total paid fee.
-
+ * Added more metric to the dashboard.
+ * Minor changes to the design of various dashboard elements.
+ * Fixed the error when a user doesn't fill the form on the login page.
 
 ## 2021-03-23
 
@@ -21,7 +23,6 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * All open positions are now displayed on the trades page, with live ticker updates.
  * Added pagination to the trade and risk reward pages.
  * Minor bug fixes.
-
 
 ## 2021-03-22
 
