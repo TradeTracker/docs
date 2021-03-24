@@ -10,6 +10,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Added more metrics to the dashboard.
  * Minor changes to the design of various dashboard elements.
  * Fixed the error when a user doesn't fill the form on the login page.
+ * Added a tags analysis chart to the dashboard.
 
 ## 2021-03-23
 
