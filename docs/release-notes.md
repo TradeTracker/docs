@@ -6,7 +6,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 ## 2021-03-24
 
  * Rewrote the getting started section on [docs.tradetracker.app](https://docs.tradetracker.app).
- * 
+ * Trade set up page will now display the fees for each order, and also the total paid fee.
 
 
 ## 2021-03-23
