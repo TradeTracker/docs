@@ -4,7 +4,7 @@ This document will help you to get started with the [TradeTracker app](https://b
 
 ## Creating an account
 
-First you will need an account. An account can be registered at [https://beta.tradetracker.app/register](https://beta.tradetracker.app/register). If you have registered, you will receive an invitation e-mail with a link that is used to set up your password. Once that's done, you can login to your account at [https://beta.tradetracker.app/login](https://beta.tradetracker.app/login).
+First you will need an account. An account can be registered at [beta.tradetracker.app/register](https://beta.tradetracker.app/register). If you have registered, you will receive an invitation e-mail with a link that is used to set up your password. Once that's done, you can login to your account at [beta.tradetracker.app/login](https://beta.tradetracker.app/login).
 
 ## Overview of the UI
 
