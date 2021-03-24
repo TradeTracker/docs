@@ -18,7 +18,7 @@ First of all, your data is almost completely anonymous, because it is only attac
 
 At the moment, every account that is created will have a personal encryption key. This key will be used to encrypt all sensitive data before it is stored in the database.
 
-All of our data is also back-up in a way which allows us to rollback to any previous point in time.
+All of our data is also backed-up in a way which allows us to rollback to any previous point in time.
 
 ## How long will the open beta run?
 
