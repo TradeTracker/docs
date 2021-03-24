@@ -7,7 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Rewrote the getting started section on [docs.tradetracker.app](https://docs.tradetracker.app).
  * Trade set up page will now display the fees for each order, and also the total paid fee.
- * Added more metric to the dashboard.
+ * Added more metrics to the dashboard.
  * Minor changes to the design of various dashboard elements.
  * Fixed the error when a user doesn't fill the form on the login page.
 
