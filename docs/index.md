@@ -22,7 +22,9 @@ Go to `Portfolios`, and [create a new portfolio](https://beta.tradetracker.app/p
 
 ![Portfolio](portfolios.PNG)
 
-Select the exchange you are using, and check if it correspons with your fee. If your exchange is not listed, please contact us and we will add it as soon as possible! This is used to get the data from the live ticker, so you could also select another exchange (if it has your symbols).
+Select the exchange you are using, and check if it corresponds with your fee. This is used to get the data from the live ticker, so you could also select another exchange (if it has your symbols).
+
+If your exchange is not listed, please contact us and we will add it as soon as possible!
 
 ### Switch portfolio
 
