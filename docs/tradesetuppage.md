@@ -32,6 +32,7 @@ Main variables for your trade that you can change:
 ## Entry form
 
 ![Entry Form](tradesetuppageEntryform.png)
+
 Entry variables for your trade that you can change:
 
 |Variable|Description|
@@ -42,6 +43,7 @@ Entry variables for your trade that you can change:
 ## Exit form
 
 ![Exit Form](tradesetuppageExitform.png)
+
 Exit variables for your trade that you can change:
 
 |Variable|Description|
@@ -53,6 +55,7 @@ Exit variables for your trade that you can change:
 ## Tags
 
 ![Tags](tags.png)
+
 Tags will help you to categorize your trades based on certain labels.
 You can use these categorizations to see which tags are profitable, and which are not.
 This will help you to identify which strategies/patterns/mistakes yield your biggest losses. Likewise it will show you what is profitable, so you can focus on that more.
@@ -63,11 +66,13 @@ You can find more about tags on [the tags documentation page.](https://docs.trad
 ## Tradingview Chart
 
 ![Tags](tradesetuppageTradingviewchart.png)
+
 You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the 'picture icon' in the trade history and open the chart link in one click.
 
 ## Notes
 
 ![Tags](tradesetuppageNotes.png)
+
 If you like, you can even add some notes here.
 
 
