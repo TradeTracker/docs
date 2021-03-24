@@ -39,5 +39,15 @@ Entry variables for your trade that you can change:
 |Quantity|The amount of stock you're buying.|
 |Price|The prijs of which you bought the stock.|
 
+## Exit form
+
+![Exit Form](tradesetuppageExitform.png)
+Exit variables for your trade that you can change:
+
+|Variable|Description|
+|--|--|
+|Quantity|The amount of stock you're selling.|
+|Price|The prijs of which you sold the stock.|
+
 
 
