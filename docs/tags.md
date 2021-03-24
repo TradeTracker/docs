@@ -20,7 +20,7 @@ You can remove a tag by click on it. Don't forget to save the data!
 The dashboard has a chart which shows the average P/L for each tag.
 You can use this to find out which tag is the most profitable, and which are not.
 
-`TODO: add tag P/L chart`
+![Tags chart](tag-chart.png)
 
 ## Ideas
 
