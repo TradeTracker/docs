@@ -1,5 +1,5 @@
 # Trade Setup Page
-The trade setup page is a 
+Summary of how the trade setup page works.
 ![Trade Setup Page](tradesetuppage.png)
 
 Based on the provided variables (below), the following values are calculated:
