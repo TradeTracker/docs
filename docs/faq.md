@@ -4,13 +4,15 @@
 
 Currently we are running an open beta which is free for everyone.
 We are planning a tiered subscription model in the future. 
-Don't worry though, we are also going to include a free tier which will allow users to journal for at least one portfolio.
+Don't worry though, we are also going to include a free tier which will allow users to journal trades.
 
 If you are currently a beta user, we will create another "hidden" tier, which will allow you to keep using it in the way you are using it now. See this as a way to thank our beta users.
 
 The subscription model will mostly impact our future features. 
 We are planning to create a screener service, which should help you to find trades you otherwise might overlook.
 Once that is finished, we want to add functionality to trade automatically based on the signals from the screener. This is the kind of functionality that will be placed in a paid tier.
+
+In short, journaling trades will be free forever.
 
 ## Is my data safe?
 
