@@ -22,4 +22,4 @@ All of our data is also back-up in a way which allows us to rollback to any prev
 
 ## How long will the open beta run?
 
-Currently we have no end date for the open beta. In this phase we will add additional functionality the journaling and analytics side of the app. Once we are satisfied with the capabilities of these two aspects, we will move to a version 1 release of the app.
+Currently we have no end date for the open beta. In this phase we will add additional functionality to the journaling and analytics side of the app. Once we are satisfied with the capabilities of these two aspects, we will move to a version 1 release of the app.
