@@ -8,6 +8,9 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Added a quick setup page to quickly setup a portfolio and a first deposit.
  * Restyled the goal page.
  * User can now set a password when registering.
+ * Tags now pop up with a cool animation.
+ * Fade-in effect is set a little bit slow.
+ * No longer possible to open trade from a different portfolio.
 
 ## 2021-03-24
 
