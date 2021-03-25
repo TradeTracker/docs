@@ -7,6 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Added a quick setup page to quickly setup a portfolio and a first deposit.
  * Restyled the goal page.
+ * User can now set a password when registering.
 
 ## 2021-03-24
 
