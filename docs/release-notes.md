@@ -9,7 +9,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Restyled the goal page.
  * User can now set a password when registering.
  * Tags now pop up with a cool animation.
- * Fade-in effect is set a little bit slow.
+ * Fade-in effect is set a little bit slower.
  * No longer possible to open trade from a different portfolio.
 
 ## 2021-03-24
