@@ -3,6 +3,15 @@
 Since we have started our open beta program, we'd also like to show which features have been implemented lately.
 If you want to request a feature, please shoot us a message on [Discord](https://dddheff.r.af.d.sendibt2.com/tr/cl/UT8I96hC9DLmYRMx9QF3i1KZk4h1nKvmFtwV73SeaIsysSV477-4TAosep86UbCUB0v7GhSTMNP_1I4EqOFuoEb8T_gTV0VgOCbBlMkuz7LxK4lJbFgaW7iPPulNf2UVovjHVmlqbEdSwH_elkqdpRjcA447txiVMOqHR9W27Udoxp2IlopdD5A5giQ3FYuqJ02kk6wRhQ), or create an issue on [GitHub](https://github.com/TradeTracker/issues). We'd love to have your feedback, and ideas!
 
+## 2021-03-31
+
+ * Fixed an issue where the last day is plotted inconsistently in the daily charts.
+ * Fixed an issue where the fees weren't included in calculating the PNL and risk for open positions.
+ * Fixed an issue where an order could be added to an already closed trade.
+ * Clamped risk between 0 and the account balance, such that the risk never exceeds 100%.
+ * If no stop loss is entered, the risk is the position value.
+ * Fixed an issue where the drawdown is calculated incorrectly.
+
 ## 2021-03-30
 
  * Added a risk of loss chart to the risk/reward page.
