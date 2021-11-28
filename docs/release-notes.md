@@ -8,6 +8,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Added functionality to export all the trades in a portfolio as a CSV file.
  * Added the possibility to edit the date created on a trade.
  * Fixed some issues with the CI/CD pipeline.
+ * Added Google Analytics to measure engagement.
 
 ## 2021-05-17
 
