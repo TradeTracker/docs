@@ -6,6 +6,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 ## 2021-11-28
 
  * Added functionality to export all the trades in a portfolio as a CSV file.
+ * Fixed some issues with the CI/CD pipeline.
 
 ## 2021-05-17
 
