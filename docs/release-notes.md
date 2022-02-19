@@ -7,6 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  
   * Updated to .NET 6.0.
   * Minor UI change on the Risk/Reward page.
+  * Fixed issue where the fees did not display on the risk/reward page.
 
 ## 2021-11-28
 
