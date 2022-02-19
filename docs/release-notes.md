@@ -5,7 +5,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
 ## 2022-02-19
  
-  * Updated to .NET 6.0
+  * Updated to .NET 6.0.
   * Minor UI change on the Risk/Reward page.
 
 ## 2021-11-28
