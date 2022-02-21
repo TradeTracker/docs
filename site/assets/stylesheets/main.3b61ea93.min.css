@@ -10,7 +10,6 @@ html{
 }
 body{
     margin:0;
-	background-color: #f9f9fc;
 }
 a,button,label,input{
     -webkit-tap-highlight-color:transparent
