@@ -4,7 +4,7 @@ The dashboard page is an information managment tool that visually tracks, analyz
 
 It is designed so that it answers important questions about your trading, for quick analysis and informational awareness. It is meant to help you getting insight and awareness in your trading performance. This can help immensely with decision making, trade execution, setting targets and help you understand why some things dont work at all, so that you can make the appropriate changes to make it work and have realistic future goals.
 
-The dashboard works very straightforward. Below is a summary of what it provides.
+The dashboard works very straightforward. Below is a summary of the data that is provided on the dashboard.
 
 
 
@@ -14,6 +14,11 @@ Line balance chart includes all transactions, including deposits & withdrawals.
 
 ## Tags
 ![Tags](tagschart.png)
+
+## General data
+![General data](dashboardgeneraldataleft.PNG)
+
+![General data](dashboardgeneraldataright.PNG)
 
 ## Cumulative PNL %
 Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
