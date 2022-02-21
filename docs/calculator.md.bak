@@ -6,6 +6,11 @@ Our position size calculator will answer that question for you. If you have crea
 ## Calculator
 The position size calculator can be found under the calculator icon on the top-right of our app, next to your username.
 
+![Calculator Icon](calculatoricon.PNG)
+
+### Form
+Fill in the following form to calculate the ideal position size with a fixed risk percentage.
+
 ![Position size calculator](calculator.PNG)
 
 After clicking take trade, all the variables such as `Entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page.
