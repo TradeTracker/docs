@@ -2,9 +2,7 @@
 Have you ever asked yourself what your position size should be if you have an entry, stoploss, and a maximum amount of risk you want to take?
 
 ## Calculator
-Our position size calculator will answer that question for you. If you have created a trade plan and have an entry, target, and stop loss, your optimal position size will be calculated automatically based on how much risk you are willing to take.
-
-![Position size calculator](calculator.PNG)
+|Our position size calculator will answer that question for you. If you have created a trade plan and have an entry, target, and stop loss, your optimal position size will be calculated automatically based on how much risk you are willing to take.|![Position size calculator](calculator.PNG)|
 
 ### Variables
 Our calculator has the following variables that you can change:
