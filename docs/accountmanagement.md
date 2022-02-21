@@ -1,9 +1,7 @@
 # Account management
 On the Account Management page you can find general information about your account and or change login credentials.
 
-![UserSettings](usersettingsicon.PNG)
-
-By clicking on your username on the top-right of the app, you will be forwarded to the Account settings.
+![UserSettings](usersettingsicon.PNG) By clicking on your username on the top-right of the app, you will be forwarded to the Account settings.
 
 ## General Information
 

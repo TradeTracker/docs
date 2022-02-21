@@ -3,7 +3,7 @@ On the Account Management page you can find general information about your accou
 
 ![UserSettings](usersettingsicon.PNG)
 
-You can find the page by clicking on your username, which can be found on the top-right of the app.
+By clicking on your username on the top-right of the app, you will be forwarded to the Account settings.
 
 ## General Information
 
