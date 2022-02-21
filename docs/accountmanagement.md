@@ -1,9 +1,12 @@
 # Account management
 
-This is general information about your account, such as your last login information, change your email or password.
+## Info
+This is general information about your account, such as your last login information.
+
+![General account info](generalaccountinfo.PNG)
 
 ## Last logins
-An overview of the last logins onto the account, ordered by Date, IP and User-Agent.
+An overview of the last logins onto the account, ordered by `Date`, `IP` and `User-Agent`.
 
 ![Last Logins](lastloginsbyip.PNG)
 
