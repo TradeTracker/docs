@@ -1,12 +1,14 @@
 # Account management
 
-### Info
+## Info
 This is general information about your account, such as your last login information.
 ![General account info](generalaccountinfo.PNG)
 
-### Last logins
+## Last logins
 An overview of the last logins onto the account, ordered by `Date`, `IP` and `User-Agent`.
 ![Last Logins](lastloginsbyip.PNG)
+
+## Change credentials
 
 ### Change E-Mail
 Here you can change the e-mail of your account. To make sure you do not get locked out of your account, you have to verify your e-mail.
