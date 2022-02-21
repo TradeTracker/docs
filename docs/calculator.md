@@ -8,12 +8,13 @@ The position size calculator can be found under the calculator icon on the top-r
 
 ![Calculator Icon](calculatoricon.PNG)
 
-### Form
-Fill in the following form to calculate the ideal position size with a fixed risk percentage.
+### Calculation form
+Fill in the entry and stoploss price of the trade setup on your price chart. Target price is not required.
 
 ![Position size calculator](calculator.PNG)
 
-After clicking take trade, all the variables such as `Entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page.
+After clicking take trade, all the variables such as `entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page where the trade can be saved by clicking on the save button.
+More information about the trade setup page can be found [here](tradesetuppage).
  
 ### Variables
 Variables to type in:
@@ -33,7 +34,7 @@ Based on the provided variables, the following values are calculated:
 |Calculation|Description|
 |--|--|
 |Target %|The distance between the entry and the target price in percentage.|
-|Stop loss%|The distance between the entry and the stoploss price in percentage.|
+|Stop loss %|The distance between the entry and the stoploss price in percentage.|
 |Value at risk|The amount that is lost after the position is stopped out (excl. slippage).|
 |Entry fee|The amount of fee that is paid to open the position.|
 |Exit fee|The amount of fee that is paiid to cover the position with a stop loss (excl. slippage). For this instance, the fee is always based on a market-order.|
