@@ -8,31 +8,31 @@ The position size calculator can be found under the calculator icon on the top-r
 
 ![Position size calculator](calculator.PNG)
 
-After clicking take trade, all the variables such `Entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page.
+After clicking take trade, all the variables such as `Entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page.
  
 ### Variables
-Our calculator has the following variables that you can change:
+Variables to type in:
 
 |Variable|Description|
 |--|--|
 |Direction|The direction of the trade, either `LONG` or `SHORT`.|
 |Fees|Includes fee calculations and subtract these from the position size. The percentage is retrieved from the defined fee in the portfolio.|
-|Risk per trade %|Percentage of balance that is lost when the stop loss is hit, and the order is sold.|
-|Entry price|Price at which the position is purchased.|
-|Stop loss|Price at which the position should be exited.|
-|Target|Price at which you intent to sell your position.|
+|Risk %|Percentage of the portfolio that is lost after the position is stopped out (excl. slippage).|
+|Entry|Price at which the position is purchased.|
+|Stop loss|Price at which the position should be exited when the trade turns out to be a loss.|
+|Target|Price at which you intent to take profit.|
 
 ### Calculations
 Based on the provided variables, the following values are calculated:
 
-|Variable|Description|
+|Calculation|Description|
 |--|--|
-|Target %|How high your target price is in percentages based on your entry price.|
-|Stop loss%| How low your stop loss price is in percentages based on your entry price.|
-|Value at risk| How much of your balance is at risk if your stop loss is hit.|
-|Entry fee|Total fee that is paid for entering the position.|
-|Exit fee|Total fee that is paid for exiting your position with a stop loss. Fee calculated with a market order.|
-|Order cost|How much your order will cost, including fees.|
-|Order value|The value of your order, without fees.|
+|Target %|The distance between the entry and the target price in percentage.|
+|Stop loss%|The distance between the entry and the stoploss price in percentage.|
+|Value at risk|The amount that is lost after the position is stopped out (excl. slippage).|
+|Entry fee|The amount of fee that is paid to open the position.|
+|Exit fee|The amount of fee that is paiid to cover the position with a stop loss (excl. slippage). For this instance, the fee is always based on a market-order.|
+|Order cost|The value of the position plus the fee that is paid to open the position.|
+|Order value|The value of the position.|
 
-We hope that our calculator will help you manage your risk and trade profitable!
+
