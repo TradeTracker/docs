@@ -27,6 +27,7 @@ Line chart includes all your trades PNL in percentage, adjusted to your total de
 Line chart that displays the amount of drawdown you have had in percentage.
 ![Drawdown](drawdown.png)
 
+## Per trade
 
 ### PNL %
 Bar chart that displays your trades PNL in percentage per trade.
@@ -37,12 +38,15 @@ Bar chart that displays the risk you took in percentage per trade.
 ### R Ratio
 Bar chart that displays the Risk/Reward ratio per trade.
 ![PNL%](rratio.png)
-### Daily PNL %
+
+## Per day
+
+### PNL %
 This bar chart displays the sum of all your trades PNL per day combined in percentage.
 ![DailyPNL%](dailypnlpercent.png)
-### Daily PNL
+### PNL
 This bar chart displays the sum of all your trades PNL per day combined.
 ![DailyPNL](dailypnl.png)
-### Daily R Ratio
+### R Ratio
 Bar chart that displays the Risk/Reward combined per day.
 ![DailyRRatio](dailyrratio.png)

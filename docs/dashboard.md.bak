@@ -25,7 +25,7 @@ Line chart includes all your trades PNL in percentage, adjusted to your total de
 ![CumulativePNL](cumulativepnl.png)
 ### Drawdown %
 Line chart that displays the amount of drawdown you have had in percentage.
-![CumulativePNL](cumulativepnl.png)
+![Drawdown](drawdown.png)
 
 
 ### PNL %
