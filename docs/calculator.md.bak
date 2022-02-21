@@ -32,7 +32,7 @@ Based on the provided variables, the following values are calculated:
 |Value at risk|The amount that is lost after the position is stopped out (excl. slippage).|
 |Entry fee|The amount of fee that is paid to open the position.|
 |Exit fee|The amount of fee that is paiid to cover the position with a stop loss (excl. slippage). For this instance, the fee is always based on a market-order.|
-|Order cost|How much your order will cost, including fees.|
-|Order value|The value of your order, without fees.|
+|Order cost|The value of the position plus the fee that is paid to open the position.|
+|Order value|The value of the position.|
 
-We hope that our calculator will help you manage your risk and trade profitable!
+
