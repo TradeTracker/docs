@@ -1,7 +1,7 @@
 # Risk of loss
 Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses. 
 
-## Compare
+## Compare target risk% vs actual risk%
 Compare a target risk % to how you are actually trading, as a reminder of how important it is to manage your risk.
 
 Risk is defined as the percentage of your balance that you will lose after a trade that goes wrong. An example, if you take 2% risk, then you will lose 2% of your total balance if the trade goes badly.
@@ -12,6 +12,6 @@ What is worthwhile to note here, is if you have a drawdown of 50%, you will need
 If you have a drawdown of 66%, you will need around 200% to be breakeven, and if you are down 80%, you need to gain 500%.
 
 ### Settings
-Play with the settings to see what happens.
+Play with the settings to see what effect it has.
 
 ![RiskOfLoss Settings](riskoflossSettings.png)
