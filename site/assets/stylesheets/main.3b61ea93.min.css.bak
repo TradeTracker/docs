@@ -66,7 +66,7 @@ input{
     --md-primary-fg-color: hsla(231, 48%, 48%, 1);
     --md-primary-fg-color--light: hsla(231, 44%, 56%, 1);
     --md-primary-fg-color--dark: hsla(232, 54%, 41%, 1);
-    --md-primary-bg-color: hsla(0, 0%, 100%, 1);
+    --md-primary-bg-color: #f9f9fc;
     --md-primary-bg-color--light: hsla(0, 0%, 100%, 0.7);
     --md-accent-fg-color: hsla(231, 99%, 66%, 1);
     --md-accent-fg-color--transparent: hsla(231, 99%, 66%, 0.1);
