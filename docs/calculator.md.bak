@@ -8,6 +8,8 @@ The position size calculator can be found under the calculator icon on the top-r
 
 ![Position size calculator](calculator.PNG)
 
+After clicking take trade, all the variables such `Entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page. 
+
 ### Variables
 Our calculator has the following variables that you can change:
 
