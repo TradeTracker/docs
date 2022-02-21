@@ -15,11 +15,6 @@ Line balance chart includes all transactions, including deposits & withdrawals.
 ## Tags
 ![Tags](tagschart.png)
 
-## General data
-![General data](dashboardgeneraldataleft.PNG)
-
-![General data](dashboardgeneraldataright.PNG)
-
 ## Cumulative PNL %
 Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
 ![CumulativePNL](cumulativepnl.png)
