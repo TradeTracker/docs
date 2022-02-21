@@ -3,9 +3,9 @@ On the Account Management page you can find general information about your accou
 ![UserSettings](usersettingsicon.PNG)
 You can find the page by clicking on your username, which can be found on the top-right of the app.
 
-## Information
+## General Information
 
-### General 
+### Account
 General account information.
 ![General account info](generalaccountinfo.PNG)
 
@@ -15,9 +15,9 @@ An overview of the last logins onto the account, ordered by `Date`, `IP` and `Us
 
 ## Change credentials
 
-### Change E-Mail
+### E-Mail
 Here you can change the e-mail of your account. To make sure you do not get locked out of your account, you have to verify your e-mail.
 ![Change E-Mail](changemail.PNG)
-### Change Password
+### Password
 Here you can change the password of your account that is used to login. It is recommended to use a strong and unique password.
 ![Change Password](changepassword.PNG)
