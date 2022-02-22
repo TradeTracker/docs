@@ -16,7 +16,7 @@ A tag can be deleted by clicking on it.
 
 Don't forget to save the data using the save trade button!
 
-![Save button(tradesetuppagebuttons.png)
+![Save button](tradesetuppagebuttons.png)
 
 ### Analytics
 
