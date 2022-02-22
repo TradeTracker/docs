@@ -1,4 +1,6 @@
 # Tags
+
+## Introduction
 Tags will help to categorize trades based on specific labels.
 Categorize the trades with tags to see which category tags are profitable to trade and which ones are not. 
 It helps identify which strategies, patterns or mistakes yield the biggest wins or losses.
@@ -16,7 +18,7 @@ A tag can be deleted by clicking on it.
 
 Don't forget to save the data using the save trade button!
 
-![Save button](tradesetuppagebuttons.png)
+![Save button](tradesetuppagebuttons.PNG)
 
 ### Analytics
 
