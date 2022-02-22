@@ -22,7 +22,7 @@ Variables to type in:
 |Variable|Description|
 |--|--|
 |Direction|The direction of the trade, either `LONG` or `SHORT`.|
-|Fees|Includes fee calculations and subtract these from the position size. The percentage is retrieved from the defined fee in the portfolio.|
+|Fees|Includes fee calculations and subtract these from the position size. The percentage is retrieved from the defined fee in the portfolio settings.|
 |Risk %|Percentage of the portfolio that is lost after the position is stopped out (excl. slippage).|
 |Entry|Price at which the position is purchased.|
 |Stop loss|Price at which the position should be exited when the trade turns out to be a loss.|
