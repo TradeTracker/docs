@@ -1,6 +1,4 @@
 # Risk of loss
-
-## Introduction
 Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses.
 
 ### Compare
@@ -9,12 +7,12 @@ Risk% is defined as the percentage of the portfolio balance that will be lost af
 
 An example: when a trade is taken with 2% risk, the portfolio will lose 2% of it's value from that moment.
 
-![RiskOfLoss](riskofloss.png)
+![RiskOfLoss](documentation-images/riskofloss.png)
 
 ### Settings
 Play with the settings to see what effect it has on the drawdown.
 
-![RiskOfLoss Settings](riskoflossSettings.png)
+![RiskOfLoss Settings](documentation-images/riskoflossSettings.png)
 
 ### Gain to breakeven
 What is worthwhile to note: A drawdown of 50% requires a 100% gain to breakeven. As the drawdown gets worse, it requires an even much bigger gain to reach the point of breakeven.

@@ -1,10 +1,9 @@
 # Title
 
-## Title Category
 
 ### Title subject
 Text
 
-![image title](image12345.PNG)
+![image title](documentation-images/image12345.PNG)
 
 ### Title subject 2

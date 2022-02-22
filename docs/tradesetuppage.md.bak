@@ -56,6 +56,7 @@ If you like, you can even add notes to a trade.
 ## Calculations
 Based on the provided variables (below), the following values are calculated:
 
+![Notes](tradesetuppageValues.png)
 
 |Variable|Description|
 |--|--|

@@ -1,9 +1,9 @@
 # Trade Setup Page
-![Trade Setup Page](tradesetuppage.png)
+![Trade Setup Page](documentation-images/tradesetuppage.png)
 
 ## Main variables
 
-![Main Values](tradesetuppageMainvalues.png)
+![Main Values](documentation-images/tradesetuppageMainvalues.png)
 
 |Variable|Description|
 |--|--|
@@ -15,7 +15,7 @@
 
 ## Entry form
 
-![Entry Form](tradesetuppageEntryform.png)
+![Entry Form](documentation-images/tradesetuppageEntryform.png)
 
 |Variable|Description|
 |--|--|
@@ -25,7 +25,7 @@
 
 ## Exit form
 
-![Exit Form](tradesetuppageExitform.png)
+![Exit Form](documentation-images/tradesetuppageExitform.png)
 
 |Variable|Description|
 |--|--|
@@ -38,7 +38,7 @@ Tags will help you to categorize your trades based on certain labels.
 You can use these categorizations to see which tags are profitable, and which are not.
 This will help you to identify which strategies/patterns/mistakes yield your biggest losses. Likewise it will show you what is profitable, so you can focus on that more.
 
-![Tags](tags.png)
+![Tags](documentation-images/tags.png)
 
 Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
 You can find more about tags on [the tags documentation page.](https://docs.tradetracker.app/tags/)
@@ -46,17 +46,17 @@ You can find more about tags on [the tags documentation page.](https://docs.trad
 ## Tradingview Chart
 You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the 'picture icon' in the trade history and open the chart link in one click.
 
-![ChartImage](tradesetuppageTradingviewchart.png)
+![ChartImage](documentation-images/tradesetuppageTradingviewchart.png)
 
 ## Notes
 If you like, you can even add notes to a trade.
 
-![Notes](tradesetuppageNotes.png)
+![Notes](documentation-images/tradesetuppageNotes.png)
 
 ## Calculations
 Based on the provided variables (below), the following values are calculated:
 
-![Notes](tradesetuppageValues.png)
+![Notes](documentation-images/tradesetuppageValues.png)
 
 |Variable|Description|
 |--|--|

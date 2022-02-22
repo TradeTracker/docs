@@ -1,19 +1,17 @@
 # Position size calculator
-
-## Introduction
 Have you ever asked yourself what your position size should be if you have an entry, stoploss, and a maximum amount of risk you want to take?
 
 Our position size calculator will answer that question for you. If you have created a trade plan and have an entry, target, and stop loss, your optimal position size will be calculated automatically based on how much risk you are willing to take.
 
-## Calculator
+### Calculator
 The position size calculator can be found under the calculator icon on the top-right of our app, next to the username of the account.
 
-![Calculator Icon](calculatoricon.PNG)
+![Calculator Icon](documentation-images/calculatoricon.PNG)
 
 ### Calculation form
 Fill in the entry and stoploss price of the trade setup on your price chart. Target price is not required.
 
-![Position size calculator](calculator.PNG)
+![Position size calculator](documentation-images/calculator.PNG)
 
 After clicking take trade, all the variables such as `entry`, `exit`, `stoploss` and `target` price will be forwarded to the trade setup page where the trade can be saved by clicking on the save button.
 More information about the trade setup page can be found [here](../tradesetuppage).
