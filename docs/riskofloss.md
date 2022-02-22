@@ -2,16 +2,29 @@
 Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses. 
 
 ## Compare target risk% vs actual risk%
-Compare a target risk % to how you are actually trading, as a reminder of how important it is to manage your risk.
+Compare target risk% of the portfolio to the actual risk% of the trade history, as a reminder of how important it is to manage your risk.
+Risk% is defined as the percentage of the portfolio balance that will be lost after a losing trade. 
 
-Risk is defined as the percentage of your balance that you will lose after a trade that goes wrong. An example, if you take 2% risk, then you will lose 2% of your total balance if the trade goes badly.
+An example: when a trade is taken with 2% risk, the portfolio will lose 2% of it's value from that moment.
 
 ![RiskOfLoss](riskofloss.png)
 
-What is worthwhile to note here, is if you have a drawdown of 50%, you will need to gain 100% to be breakeven. As your drawdown goes lower you will need to have an ever bigger gain to reach breakeven. 
-If you have a drawdown of 66%, you will need around 200% to be breakeven, and if you are down 80%, you need to gain 500%.
-
 ### Settings
-Play with the settings to see what effect it has.
+Play with the settings to see what effect it has on the drawdown.
 
 ![RiskOfLoss Settings](riskoflossSettings.png)
+
+## Gain to breakeven
+What is worthwhile to note: A drawdown of 50% requires a 100% gain to breakeven. As the drawdown gets worse, it requires an even much bigger gain to reach the point of breakeven.
+
+|Percentage loss|Percentage to breakeven||Percentage loss|Percentage to breakeven|
+|--|--|--|--|--|
+|5%|5.3%||55%|122.2%|
+|10%|11.1%||60%|150%|
+|15%|17.6%||65%|185.7%|
+|20%|25%||70%|233.3%|
+|25%|33.3%||75%|300%|
+|30%|42.9%||80%|400%|
+|35%|53.8%||85%|566.7%|
+|40%|66.7%||90%|900%|
+|50%|100%||95%|1900%|
