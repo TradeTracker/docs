@@ -15,7 +15,7 @@ Fill in the entry and stoploss price of the trade setup on your price chart. Tar
 
 After clicking take trade, all the variables such as `entry`, `exit`, `stoploss` and `target` will be forwarded to the trade setup page where the trade can be saved by clicking on the save button.
 
-![Save button](documentation-images/tradesetuppagebuttons.PNG)
+![Save button](documentation-images/tradesetuppageSavebutton.PNG)
 
 More information about the trade setup page can be found [here](../tradesetuppage).
  
