@@ -1,13 +1,15 @@
 # Risk of loss
-Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses. 
 
-## Compare target risk% vs actual risk%
+
+## Compare
 Compare target risk% of the portfolio to the actual risk% of the trade history, as a reminder of how important it is to manage your risk.
 Risk% is defined as the percentage of the portfolio balance that will be lost after a losing trade. 
 
 An example: when a trade is taken with 2% risk, the portfolio will lose 2% of it's value from that moment.
 
 ![RiskOfLoss](riskofloss.png)
+
+Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses.
 
 ### Settings
 Play with the settings to see what effect it has on the drawdown.
