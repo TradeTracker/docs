@@ -19,7 +19,7 @@ This screenshot below illustrates the different components. This is what you see
 The theme can be changed to darkmode, using the ![Toggle Theme](documentation-images/toggleTheme.PNG) button in the vertical menu on the left.
 
 ### Demonstration
-On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app provides.
+On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app delivers.
 
 ## Getting ready
 However, you want to start trading on an new, fresh, empty portfolio with a clean dashboard.
