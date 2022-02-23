@@ -10,7 +10,7 @@ It can be found by clicking on the add position or while using the position size
 ![Icons](documentation-images/calculatoricon.PNG)
 
 * When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking take trade.
-More about our position size calculator [here](../calculator)
+More about our position size calculator [here](../calculator).
 
 ### Main variables
 
@@ -25,7 +25,7 @@ More about our position size calculator [here](../calculator)
 |Target|Price at which you intent to cover the position.|
 
 * **Open positions: ** 
-When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
+When the symbol of the market is filled in accordingly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
 
 ![Open position](documentation-images/openpositioncard.PNG) *Dashboard card*
 
