@@ -1,7 +1,17 @@
 # Trade Setup Page
-Screenshot of the trade setup page.
+
+## Introduction
+This is what the trade setup page looks like.
 
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
+
+It can be found by clicking on the ![Add position](documentation-images/addButton.PNG) or while using the Position Size Calculator.
+
+![Icons](documentation-images/calculatoricon.PNG)
+
+* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page.
+
+More information about our position size calculator can be found [here](../calculator).
 
 ### Main variables
 
@@ -16,7 +26,9 @@ Screenshot of the trade setup page.
 |Target|Price at which you intent to cover the position.|
 
 * **Open positions: ** 
-When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard:
+When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
+
+Screenshot of an open position card displayed on the dashboard.
 
 ![Open position](documentation-images/openpositioncard.PNG)
 
@@ -59,6 +71,9 @@ Based on the provided variables (below), the following values are calculated:
 |Risk|Risk in base-currency format|
 |Risk%|Risk in percentage over portfolio|
 |R/R Ratio|Risk/Reward ratio|
+
+## Additionals
+Besides the data above, there are also other metrics that can be given to a trade:
 
 ### Tags
 Tags will help you to categorize your trades based on certain labels.
