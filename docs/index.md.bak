@@ -17,8 +17,8 @@ This is what you see after loggin in to the app.
 
 This screenshots below illustrate the different components.
 
-|Portfolio switch|Calculator|New position|Account settings|
-|--|--|--|--|
+Portfolio switch, Calculator, New position, Account settings
+
 
 ![Icons](documentation-images/usersettingsicon.PNG)
 
@@ -40,11 +40,16 @@ Go to the `Portfolios` page in the menu and [create a new portfolio](https://bet
 A new row appeared:
 
 ![Portfolio](documentation-images/portfolios.PNG)
+Exchange:
 
-After selecting an Exchange Platform by choice, the app recoginises the price-tickers from the markets available to trade on that exchange.
+By selecting an Exchange Platform by choice, the app recoginises the price-tickers from the markets available to trade on that exchange.
 If your exchange is not listed, please contact us and we will add it as soon as possible.
 
+Fees:
+
 Check if the default fee setting correspond with the fee tier based on your trading volume (exchanges give often discounts on fees when having $100,000 + monthly volume).
+
+Target Risk:
 
 Fill in a target Risk%, so the position size calculator remembers how much risk you are willing to take.
 
