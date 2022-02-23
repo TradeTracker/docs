@@ -94,7 +94,7 @@ You can paste the link of your tradingview chart here for later reference.
 
 ![ChartImage](documentation-images/tradesetuppageTradingviewchart.png)
 
-* **Trade History page:** 1 easy click away from opening your tradingview chart! ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG)
+* **Trade History:** 1 easy click away from opening your tradingview chart! ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG)
 
 ### Notes
 If you like, you can even add notes to a trade.
