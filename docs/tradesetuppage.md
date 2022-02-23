@@ -3,7 +3,7 @@
 ## Introduction
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
 
-This is what the trade setup page looks like.
+**This is what the trade setup page looks like.**
 
 It can be found by clicking on the add position or while using the position size calculator.
 
