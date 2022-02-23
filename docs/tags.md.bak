@@ -1,4 +1,6 @@
 # Tags
+
+## How do tags work
 Tags will help to categorize trades based on specific labels.
 Categorize the trades with tags to see which category tags are profitable to trade and which ones are not. 
 It helps identify which strategies, patterns or mistakes yield the biggest wins or losses.
@@ -23,7 +25,7 @@ You can use this to find out which tag is the most profitable, and which are not
 
 ![Tags chart](documentation-images/tagschart.png)
 
-### Ideas
+## Ideas
 Tags are universably applicable, so to get started, here are a few ideas which can be used as tags:
 
  * Use technical analysis patterns such as `ascending triangle`, `double top`, `rising wedge`.

@@ -69,7 +69,7 @@ Based on the variables that were typed in, the following values are calculated:
 |Risk%|Risk in percentage over portfolio|
 |R/R Ratio|Risk/Reward ratio|
 
-## Saving and closing trades
+### Saving and closing trades
 In order to close a trade and send it to the trade history, simply type in the exit form and press the `Close - Manual` or `Close  Stop loss` button.
 
 ![Buttons](documentation-images/tradesetuppagebuttons.PNG)
@@ -86,7 +86,7 @@ It helps identify which strategies, patterns or mistakes yield the biggest wins 
 
 ![Tags](documentation-images/tags.png)
 
-* Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
+* Because the tags are used in dashboard graphs and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
 You can find more about tags on [the tags documentation page.](../tags)
 
 ### Tradingview Chart
