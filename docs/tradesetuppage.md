@@ -1,6 +1,4 @@
 # Trade Setup Page
-The trade setup page works very straightforward. 
-
 Screenshot of the trade setup page.
 
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
@@ -81,4 +79,8 @@ Based on the provided variables (below), the following values are calculated:
 |Risk%|Risk in percentage over portfolio|
 |R/R Ratio|Risk/Reward ratio|
 
+### Saving and closing trades
+Saving the trade happens automatically when leaving the trade setup page. (e.g switching to the Dashboard or an other page)
+In order to parse a trade to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
 
+![Buttons](tradesetuppagebuttons.PNG)
