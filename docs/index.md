@@ -1,11 +1,14 @@
 # Get started
-This document will help you to get started with the [TradeTracker app](https://beta.tradetracker.app) and start journaling your trades. We know that no one likes reading long documentation, so we will try to keep it as short as possible.
-
+This document will help you to get started with the [TradeTracker app](https://beta.tradetracker.app) so you can start journaling your trades efficiently. We know that no one likes reading long documentation, so we will try to keep it as short as possible.
 
 ## Getting started
 
 ### Account creation
-An account can be registered at [beta.tradetracker.app/register](https://beta.tradetracker.app/register). Once that is done, you can login to your account at [beta.tradetracker.app/login](https://beta.tradetracker.app/login).
+An account can be registered at [beta.tradetracker.app/register](https://beta.tradetracker.app/register) in 10 seconds with only an e-mail address.
+
+![Register Form](documentation-images/registerForm.PNG)
+
+Once that is done, a e-mail will be send to your mailbox and you can login to your account.
 
 ### Overview of the UI
 This screenshot below illustrates the different components. This is what you see after loggin in to the app.
