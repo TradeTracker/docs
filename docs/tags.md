@@ -9,8 +9,8 @@ It helps identify which strategies, patterns or mistakes yield the biggest wins 
 
 ### Managing tags
 Tags can be added to a trade on the trade set up page, by simply enter a name for a tag, and press enter.
-Multiple tags can be added in one instance by separating them with a comma ','. 
 
+Multiple tags can be added in one instance by separating them with a comma ','. 
 A tag can be deleted by clicking on it.
 
 ![Tags](documentation-images/tags.png)

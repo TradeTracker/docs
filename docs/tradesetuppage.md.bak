@@ -5,11 +5,11 @@
 
 **This is what the trade setup page looks like.**
 
-It can be found by clicking on the add position or while using the position size calculator.
+It can be found by clicking on the add position icon or while using the position size calculator.
 
 ![Icons](documentation-images/calculatoricon.PNG)
 
-* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking take trade.
+* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking on take trade.
 More about our position size calculator [here](../calculator).
 
 ### Main variables
@@ -35,7 +35,7 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 ![Entry/Exit Form](documentation-images/tradesetuppageEntryform.png)
 
-* Entry & Exit forms work and look identical.
+Entry & Exit forms work and look identical.
 
 |Variable|Description|
 |--|--|

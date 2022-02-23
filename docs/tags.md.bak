@@ -21,6 +21,7 @@ A tag can be deleted by clicking on it.
 
 ### Analytics
 The dashboard has a chart which shows the average P/L for each tag.
+
 You can use this to find out which tag is the most profitable, and which are not.
 
 ![Tags chart](documentation-images/tagschart.png)
