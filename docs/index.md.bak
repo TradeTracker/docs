@@ -22,7 +22,7 @@ The theme can be changed to darkmode, using the ![Toggle Theme](documentation-im
 On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app delivers.
 
 ## Getting ready
-However, you want to start trading on an new, fresh, empty portfolio with a clean dashboard.
+However, you want to start with a new, fresh portfolio, a clean empty dashboard.
 
 Once you're ready, here is how you set it up:
 
