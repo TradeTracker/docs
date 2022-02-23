@@ -46,9 +46,9 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 
 ### Calculations
-Based on the variables that were typed in, the following values are calculated:
-
 ![Notes](documentation-images/tradesetuppageValues.png)
+
+Based on the variables that were typed in, the following values are calculated:
 
 |Variable|Description|
 |--|--|
