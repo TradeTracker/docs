@@ -17,10 +17,10 @@ This is what you see after log-in in to the app.
 
 This screenshots below illustrate the different components.
 
-*Portfolio switch, 
-*Calculator, 
-*New position, 
-*Account settings
+* Portfolio switch, 
+* Calculator, 
+* New position, 
+* Account settings
 
 ![Icons](documentation-images/usersettingsicon.PNG)
 
