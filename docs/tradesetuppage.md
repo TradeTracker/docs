@@ -72,6 +72,13 @@ Based on the provided variables (below), the following values are calculated:
 |Risk%|Risk in percentage over portfolio|
 |R/R Ratio|Risk/Reward ratio|
 
+## Saving and closing trades
+Saving the trade happens automatically when leaving the trade setup page (e.g switching to the Dashboard or an other page).
+
+In order to close a trade and send it to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
+
+![Buttons](documentation-images/tradesetuppagebuttons.PNG)
+
 ## Additionals
 Besides the data above, there are also other metrics that can be given to a trade:
 
@@ -94,10 +101,3 @@ You can paste the link of your tradingview chart here for later reference. After
 If you like, you can even add notes to a trade.
 
 ![Notes](documentation-images/tradesetuppageNotes.png)
-
-### Saving and closing trades
-Saving the trade happens automatically when leaving the trade setup page (e.g switching to the Dashboard or an other page).
-
-In order to close a trade and send it to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
-
-![Buttons](documentation-images/tradesetuppagebuttons.PNG)

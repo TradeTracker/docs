@@ -72,6 +72,9 @@ Based on the provided variables (below), the following values are calculated:
 |Risk%|Risk in percentage over portfolio|
 |R/R Ratio|Risk/Reward ratio|
 
+## Additionals
+Besides the data above, there are also other metrics that can be given to a trade:
+
 ### Tags
 Tags will help you to categorize your trades based on certain labels.
 You can use these categorizations to see which tags are profitable, and which are not.
