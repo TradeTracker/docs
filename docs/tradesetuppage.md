@@ -35,7 +35,7 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 ![Entry/Exit Form](documentation-images/tradesetuppageEntryform.png)
 
-* Entry & Exit forms work and look identical.
+Entry & Exit forms work and look identical.
 
 |Variable|Description|
 |--|--|
