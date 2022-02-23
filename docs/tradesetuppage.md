@@ -93,7 +93,7 @@ Because the tags are used in charts, and other parts of the UI, the maximum leng
 You can find more about tags on [the tags documentation page.](https://docs.tradetracker.app/tags/)
 
 ### Tradingview Chart
-You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG) icon in the trade history and open the chart link in one click.
+You can paste the link of your tradingview chart here for later reference.
 
 ![ChartImage](documentation-images/tradesetuppageTradingviewchart.png)
 
