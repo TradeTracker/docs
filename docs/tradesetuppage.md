@@ -5,9 +5,9 @@ This is what the trade setup page looks like.
 
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
 
-It can be found by clicking on the ![Add position](documentation-images/addButton.PNG) or while using the Position Size Calculator.
+It can be found by clicking on the add position or while using the position size calculator.
 
-* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page.
+* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking take trade.
 
 ![Icons](documentation-images/calculatoricon.PNG)
 
