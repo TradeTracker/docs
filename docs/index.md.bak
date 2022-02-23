@@ -44,7 +44,7 @@ Switch the portfolio from the `demo` portfolio to the new one. This is done usin
 ### Create a new transaction
 For the purpose of calculation, every portfolio starts with a first transaction valued by the number of the capital that is sitting on your exchange and the amount you want to trade with.
 
-The proceeds are just as simple as creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new) and fill in the number.
+The proceeds are just as simple as creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new).
 
 ![Transaction](documentation-images/transaction.PNG)
 
