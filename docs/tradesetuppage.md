@@ -89,7 +89,7 @@ This will help you to identify which strategies/patterns/mistakes yield your big
 
 ![Tags](documentation-images/tags.png)
 
-Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
+* Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
 You can find more about tags on [the tags documentation page.](https://docs.tradetracker.app/tags/)
 
 ### Tradingview Chart
