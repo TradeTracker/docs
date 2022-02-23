@@ -5,11 +5,6 @@ It is designed so that it answers important questions about your trading, for qu
 
 The dashboard works very straightforward. Below is a summary of the data that is provided on the dashboard.
 
-### Open positions
-When having open positions, cards will be shown on the top of the dashboard with live P/L, provided by the price ticker-api from the exchange.
-
-![Open position](documentation-images/openpositioncard.PNG)
-
 ### Balance
 Line balance chart includes all transactions, including deposits & withdrawals.
 ![Balance](documentation-images/balance.png)
