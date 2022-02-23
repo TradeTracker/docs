@@ -80,13 +80,13 @@ In order to close a trade and send it to the trade history, simply type in the e
 Besides the statistics of your trade, like the data described above, there are also other metrics that can be given to a trade:
 
 ### Tags
-Tags will help you to categorize your trades based on certain labels.
-You can use these categorizations to see which tags are profitable, and which are not.
-This will help you to identify which strategies/patterns/mistakes yield your biggest losses. Likewise it will show you what is profitable, so you can focus on that more.
+Tags will help to categorize trades based on specific labels.
+Categorize the trades with tags to see which category tags are profitable to trade and which ones are not. 
+It helps identify which strategies, patterns or mistakes yield the biggest wins or losses.
 
 ![Tags](documentation-images/tags.png)
 
-* Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
+* Because the tags are used in dashboard graphs and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
 You can find more about tags on [the tags documentation page.](../tags)
 
 ### Tradingview Chart
