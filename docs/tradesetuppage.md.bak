@@ -5,11 +5,11 @@ This is what the trade setup page looks like.
 
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
 
-It can be found by clicking on the ![Add position](documentation-images/addButton.PNG) or while using the Position Size Calculator.
-
-* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page.
+It can be found by clicking on the add position or while using the position size calculator.
 
 ![Icons](documentation-images/calculatoricon.PNG)
+
+* When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking take trade.
 
 More information about our position size calculator can be found [here](../calculator).
 
@@ -29,9 +29,9 @@ More information about our position size calculator can be found [here](../calcu
 When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
 
 
-![Open position](documentation-images/openpositioncard.PNG)
+![Open position](documentation-images/openpositioncard.PNG) *Screenshot of an open position card displayed on the dashboard.*
 
-*Screenshot of an open position card displayed on the dashboard.*
+
 
 ### Entry form
 
@@ -54,7 +54,7 @@ When the symbol of the market is filled in correctly, live P/L will be shown in 
 |Order type|`limit` or `market` order, which often differ in fee's.|
 
 ### Calculations
-Based on the provided variables (below), the following values are calculated:
+Based on the variables that the trader types in, the following values are calculated:
 
 ![Notes](documentation-images/tradesetuppageValues.png)
 
@@ -74,11 +74,11 @@ Based on the provided variables (below), the following values are calculated:
 |R/R Ratio|Risk/Reward ratio|
 
 ## Saving and closing trades
-Saving the trade happens automatically when leaving the trade setup page (e.g switching to the Dashboard or an other page).
-
 In order to close a trade and send it to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
 
 ![Buttons](documentation-images/tradesetuppagebuttons.PNG)
+
+* Saving the trade also happens automatically when leaving the trade setup page (e.g switching to the Dashboard or an other page).
 
 ## Additionals
 Besides the data above, there are also other metrics that can be given to a trade:
@@ -94,7 +94,7 @@ Because the tags are used in charts, and other parts of the UI, the maximum leng
 You can find more about tags on [the tags documentation page.](https://docs.tradetracker.app/tags/)
 
 ### Tradingview Chart
-You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the 'picture icon' in the trade history and open the chart link in one click.
+You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG) icon in the trade history and open the chart link in one click.
 
 ![ChartImage](documentation-images/tradesetuppageTradingviewchart.png)
 
