@@ -71,7 +71,7 @@ Based on the variables that were typed in, the following values are calculated:
 |R/R Ratio|Risk/Reward ratio|
 
 ### Save and closing trades
-In order to close a trade and send it to the trade history, simply type in the exit form and press the `Close - Manual` or `Close  Stop loss` button.
+In order to close a trade and send it to the trade history, simply type in the exit form and press the `Close - Manual` or `Close - Stop loss` button.
 
 ![Buttons](documentation-images/tradesetuppagebuttons.PNG)
 
