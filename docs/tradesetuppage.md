@@ -28,8 +28,9 @@ More information about our position size calculator can be found [here](../calcu
 * **Open positions: ** 
 When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
 
-* Screenshot of an open position card displayed on the dashboard.
 ![Open position](documentation-images/openpositioncard.PNG)
+
+*Dashboard card*
 
 ### Entry form
 
@@ -52,7 +53,7 @@ When the symbol of the market is filled in correctly, live P/L will be shown in 
 |Order type|`limit` or `market` order, which often differ in fee's.|
 
 ### Calculations
-Based on the variables that the trader types in, the following values are calculated:
+Based on the variables that were typed in, the following values are calculated:
 
 ![Notes](documentation-images/tradesetuppageValues.png)
 
@@ -95,6 +96,8 @@ You can find more about tags on [the tags documentation page.](https://docs.trad
 You can paste the link of your tradingview chart here for later reference. After closing the trade you can find this back easily to click on the ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG) icon in the trade history and open the chart link in one click.
 
 ![ChartImage](documentation-images/tradesetuppageTradingviewchart.png)
+
+* Open a chart in 1 click from the Trade History by clicking the icon! ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG)
 
 ### Notes
 If you like, you can even add notes to a trade.
