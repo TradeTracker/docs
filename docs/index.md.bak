@@ -1,4 +1,4 @@
-# TradeTracker.app
+# Get started
 This document will help you to get started with the [TradeTracker app](https://beta.tradetracker.app) and start journaling your trades. We know that no one likes reading long documentation, so we will try to keep it as short as possible.
 
 
