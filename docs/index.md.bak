@@ -44,7 +44,7 @@ A new row appeared:
 ![Portfolio](documentation-images/portfolios.PNG)
 
 * **Exchange:** 
-Select an Exchange Platform, the app recoginises the price-tickers from the markets available to trade on that exchange.
+Select the Exchange Platform, the app recoginises the price-tickers from the markets available to trade on that exchange.
 If your exchange is not listed, please contact us and we will add it as soon as possible.
 
 * **Fees:** 
@@ -72,4 +72,4 @@ The purpose of doing this is because the value of your portfolio is used to calc
 
 The process of creating a transaction is simple, just like creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new) and fill in the number.
 
-That's it, the portfolio is ready to be used!
+**That's it, the portfolio is ready to be used!**
