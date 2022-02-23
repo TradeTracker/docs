@@ -50,8 +50,9 @@ You're now inside the portfolio, by having selected it with the switch.
 Every portfolio starts with a first transaction valued by the number of the capital that is sitting on your exchange and the amount you want to trade with. 
 The purpose of doing this is because the value of your portfolio is used to calculate percentages and other values of the portfolio.
 
-The process of creating a transaction is simple, just like creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new) and fill in the number.
 
 ![Transaction](documentation-images/transaction.PNG)
 
-That's it, you are ready to go!
+The process of creating a transaction is simple, just like creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new) and fill in the number.
+
+That's it, the portfolio is ready to be used!
