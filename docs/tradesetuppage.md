@@ -1,17 +1,16 @@
 # Trade Setup Page
 
 ## Introduction
-This is what the trade setup page looks like.
-
 ![Trade Setup Page](documentation-images/tradesetuppage.png)
+
+This is what the trade setup page looks like.
 
 It can be found by clicking on the add position or while using the position size calculator.
 
 ![Icons](documentation-images/calculatoricon.PNG)
 
 * When using the position size calculator, it automatically forwards the `entry`, `stoploss` and `target` price, as well as using a `limit` or `market` order to the Trade Setup Page after clicking take trade.
-
-More information about our position size calculator can be found [here](../calculator).
+More about our position size calculator [here](../calculator)
 
 ### Main variables
 
@@ -28,9 +27,7 @@ More information about our position size calculator can be found [here](../calcu
 * **Open positions: ** 
 When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
 
-![Open position](documentation-images/openpositioncard.PNG)
-
-*Dashboard card*
+![Open position](documentation-images/openpositioncard.PNG) *Dashboard card*
 
 ### Entry form
 
@@ -73,14 +70,14 @@ Based on the variables that were typed in, the following values are calculated:
 |R/R Ratio|Risk/Reward ratio|
 
 ## Saving and closing trades
-In order to close a trade and send it to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
+In order to close a trade and send it to the trade history, simply type in the exit form and press the `Close - Manual` or `Close  Stop loss` button.
 
 ![Buttons](documentation-images/tradesetuppagebuttons.PNG)
 
 * Saving the trade also happens automatically when leaving the trade setup page (e.g switching to the Dashboard or an other page).
 
 ## Additionals
-Besides the data above, there are also other metrics that can be given to a trade:
+Besides the statistics of your trade, like the data described above, there are also other metrics that can be given to a trade:
 
 ### Tags
 Tags will help you to categorize your trades based on certain labels.
@@ -90,7 +87,7 @@ This will help you to identify which strategies/patterns/mistakes yield your big
 ![Tags](documentation-images/tags.png)
 
 * Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
-You can find more about tags on [the tags documentation page.](https://docs.tradetracker.app/tags/)
+You can find more about tags on [the tags documentation page.](../tags)
 
 ### Tradingview Chart
 You can paste the link of your tradingview chart here for later reference.
