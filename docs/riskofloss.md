@@ -1,6 +1,10 @@
 # Risk of loss
 Quickly see what the impact is of taking too much risk. It shows how quickly balance drains after x amount of consecutive losses.
 
+This feature can be found on the Risk/Reward page in the menu.
+
+![Menu](documentation-images/appmenu.PNG)
+
 ### Compare
 Compare target risk% of the portfolio to the actual risk% of the trade history, as a reminder of how important it is to manage your risk.
 Risk% is defined as the percentage of the portfolio balance that will be lost after a losing trade. 

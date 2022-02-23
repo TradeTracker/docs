@@ -1,0 +1,16 @@
+# Trade History
+Table of the trade history from the selected portfolio.
+
+![Trade History](documentation-images/tradehistory.PNG)
+
+### Table
+Values in the table
+
+|↑↓|#|Closed Date|Symbol|Stop loss|Risk%|Quantity|Entry|Exit|Order cost|Order value|Fees|P/L|P/L%||||
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
+|`Long` or `Short`|Trade number|Date were the trade was closed|The market symbol name|Stop loss price|Portfolio % at risk|Shares bought/sold|Entry price|Exit price|Position value + fees paid|Position value|Fees paid|Profit/Loss|Portfolio profit/loss in %|Tradingview chart|Delete button|
+
+### Tradingview chart
+It is possible to add a tradingview chart to a trade. When a tradingview chart is available, the following icon will be displayed in the trade history table.
+![Trade History](documentation-images/tradehistoryTradingviewchartIcon.PNG)
+

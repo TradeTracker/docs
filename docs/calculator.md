@@ -3,7 +3,7 @@ Have you ever asked yourself what your position size should be if you have an en
 
 Our position size calculator will answer that question for you. If you have created a trade plan and have an entry, target, and stop loss, your optimal position size will be calculated automatically based on how much risk you are willing to take.
 
-### Calculator
+### Location
 The position size calculator can be found under the calculator icon on the top-right of our app, next to the username of the account.
 
 ![Calculator Icon](documentation-images/calculatoricon.PNG)
