@@ -83,4 +83,4 @@ Based on the provided variables (below), the following values are calculated:
 Saving the trade happens automatically when leaving the trade setup page. (e.g switching to the Dashboard or an other page)
 In order to parse a trade to the trade history, simply type in the exit form and press on the `Close - Manual` or `Close  Stop loss` button.
 
-![Buttons](tradesetuppagebuttons.PNG)
+![Buttons](documentation-images/tradesetuppagebuttons.PNG)
