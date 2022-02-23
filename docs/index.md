@@ -11,13 +11,14 @@ An account can be registered at [beta.tradetracker.app/register](https://beta.tr
 Once that is done, a e-mail will be send to your mailbox and you can login to your account.
 
 ### Overview of the UI
- This is what you see after loggin in to the app.
-
-This screenshot below illustrates the different components.
+This is what you see after loggin in to the app.
 
 ![UI](documentation-images/ui.png)
 
-|Portfolio switch|Calculator|New position|Account settings
+This screenshots below illustrate the different components.
+
+|Portfolio switch|Calculator|New position|Account settings|
+|--|--|--|--|
 
 ![Icons](documentation-images/usersettingsicon.PNG)
 
