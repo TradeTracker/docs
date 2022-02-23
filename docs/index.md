@@ -12,12 +12,11 @@ This screenshot below illustrates the different components. This is what you see
 
 ![UI](documentation-images/ui.png)
 
-Portfolio switch > Calculator > New Position > Account Settings
+|Portfolio switch|Calculator|New position|Account settings
 
 ![Icons](documentation-images/usersettingsicon.PNG)
 
-The theme can be changed to darkmode, using the button in the vertical menu.
-![Toggle Theme](documentation-images/toggleTheme.PNG)
+The theme can be changed to darkmode, using the ![Toggle Theme](documentation-images/toggleTheme.PNG) button in the vertical menu on the left.
 
 ### Demonstration
 On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app provides.
@@ -28,11 +27,11 @@ However, you want to start trading on an new, fresh, empty portfolio with a clea
 Once you're ready, here is how you set it up:
 
 ### Create a portfolio
-Go to `Portfolios`, and [create a new portfolio](https://beta.tradetracker.app/portfolios#new) by clicking on the add button.
+Go to the `Portfolios` page in the menu and [create a new portfolio](https://beta.tradetracker.app/portfolios#new) by clicking on the add button.
 
 ![Add button](documentation-images/addButton.PNG)
 
-A new row will apppear:
+A new row appeared:
 
 ![Portfolio](documentation-images/portfolios.PNG)
 
