@@ -1,5 +1,5 @@
 # TradeTracker.app
-This document will help you to get started with the [TradeTracker app](https://beta.tradetracker.app), and start journaling your trades. We know that no one likes reading long documentation, so we will try to keep it as short as possible.
+This document will help you to get started with the [TradeTracker app](https://beta.tradetracker.app) and start journaling your trades. We know that no one likes reading long documentation, so we will try to keep it as short as possible.
 
 
 ## Getting started
@@ -13,28 +13,31 @@ This screenshot below illustrates the different components. This is what you wil
 ![UI](documentation-images/ui.png)
 
 ### Demonstration
-On the first login, an demo portfolio will be created to give a feeling of the possibilities and features TradeTracker.app provides.
+On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app provides.
 
 ## Getting ready
 However, you want to start trading on an new, fresh, empty portfolio with a clean dashboard.
 
-Once your ready, here is how you set it up:
+Once you're ready, here is how you set it up:
 
 ### Create a portfolio
-Go to `Portfolios`, and [create a new portfolio](https://beta.tradetracker.app/portfolios#new) by clicking on the ![Add button](documentation-images/addButton.PNG).
+Go to `Portfolios`, and [create a new portfolio](https://beta.tradetracker.app/portfolios#new) by clicking on the add button.
+
+![Add button](documentation-images/addButton.PNG)
 
 A new row will apppear:
 
 ![Portfolio](documentation-images/portfolios.PNG)
 
-Select an exchange platform by choice, so that the app recoginises the price-tickers from the markets you trade.
-If your exchange is not listed, please contact us and we will add it as soon as possible!
+After selecting an Exchange Platform by choice, the app recoginises the price-tickers from the markets available to trade on that exchange.
+If your exchange is not listed, please contact us and we will add it as soon as possible.
 
 Check if the default fee setting correspond with the fee tier based on your trading volume (exchanges give often discounts on fees when having $100,000 + monthly volume).
 
 Fill in a target Risk%, so the position size calculator remembers how much risk you are willing to take.
 
-After filling in the portfolio form, click on the save button. ![Save Button](documentation-images/saveButtonForm.PNG)
+After filling in the portfolio form, click on the save button on the right side.
+![Save Button](documentation-images/saveButtonForm.PNG)
 
 ### Switch to the portfolio
 Switch the portfolio from the `demo` portfolio to the new one. This is done using the portfolio selector, in the top-right corner of the app.
@@ -44,7 +47,7 @@ Switch the portfolio from the `demo` portfolio to the new one. This is done usin
 ### Create a new transaction
 For the purpose of calculation, every portfolio starts with a first transaction valued by the number of the capital that is sitting on your exchange and the amount you want to trade with.
 
-The proceeds are just as simple as creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new).
+The proceeds are just as simple as creating a portfolio. Go to `Transactions`, and [add a transaction type deposit](https://beta.tradetracker.app/transactions#new) and fill in the number.
 
 ![Transaction](documentation-images/transaction.PNG)
 
