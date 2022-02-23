@@ -36,7 +36,7 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 |Variable|Description|
 |--|--|
-|Quantity|Size of shares|
+|Quantity|Amount of shares|
 |Price|Price of shares|
 |Order type|`limit` or `market` order, which often differ in fee's.|
 
@@ -46,7 +46,7 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 |Variable|Description|
 |--|--|
-|Quantity|Size of shares|
+|Quantity|Amount of shares|
 |Price|Price of shares|
 |Order type|`limit` or `market` order, which often differ in fee's.|
 
