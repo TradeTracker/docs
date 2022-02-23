@@ -4,7 +4,7 @@ This document will help you to get started with the [TradeTracker app](https://b
 ## Getting started
 
 ### Account creation
-An account can be registered at [beta.tradetracker.app/register](https://beta.tradetracker.app/register) in 10 seconds with only an e-mail address.
+An account can be registered at [beta.tradetracker.app/register](https://beta.tradetracker.app/register) in 10 seconds using only an e-mail address.
 
 ![Register Form](documentation-images/registerForm.PNG)
 
