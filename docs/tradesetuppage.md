@@ -28,9 +28,10 @@ More information about our position size calculator can be found [here](../calcu
 * **Open positions: ** 
 When the symbol of the market is filled in correctly, live P/L will be shown in the trade setup page as well as on top of the dashboard.
 
-Screenshot of an open position card displayed on the dashboard.
 
 ![Open position](documentation-images/openpositioncard.PNG)
+
+*Screenshot of an open position card displayed on the dashboard.*
 
 ### Entry form
 
