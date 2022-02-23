@@ -24,7 +24,7 @@ The dashboard has a chart which shows the average P/L for each tag.
 
 ![Tags chart](documentation-images/tagschart.png)
 
-You can use this to find out which tag is the most profitable, and which are not.
+* Find out which tag is the most profitable and which ones are not.
 
 ## Ideas
 Tags are universably applicable, so to get started, here are a few ideas which can be used as tags:
