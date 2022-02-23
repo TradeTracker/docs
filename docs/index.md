@@ -12,6 +12,13 @@ This screenshot below illustrates the different components. This is what you wil
 
 ![UI](documentation-images/ui.png)
 
+Portfolio switch > Calculator > New Position > Account Settings
+
+![Icons](documentation-images/usersettingsicon.PNG)
+
+The theme can be changed to darkmode, using the button in the vertical menu.
+![Toggle Theme](documentation-images/toggleTheme.PNG)
+
 ### Demonstration
 On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app provides.
 
