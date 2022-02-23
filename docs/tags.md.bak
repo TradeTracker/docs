@@ -3,7 +3,7 @@ Tags will help to categorize trades based on specific labels.
 Categorize the trades with tags to see which category tags are profitable to trade and which ones are not. 
 It helps identify which strategies, patterns or mistakes yield the biggest wins or losses.
 
-Because the tags are used in charts, and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
+Because the tags are used in dashboard graphs and other parts of the UI, the maximum length of a tag is fixed to 26 characters.
 
 ### Managing tags
 Tags can be added to a trade on the trade set up page, by simply enter a name for a tag, and press enter.

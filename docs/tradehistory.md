@@ -10,4 +10,4 @@ It is possible to add a tradingview chart to a trade. When a tradingview chart i
 
 By clicking on the icon, your browser will oppen the tradingview chart in a separate tab.
 
-one click away from opening the tradingview chart of your trade
+* **Trade History page:** 1 easy click away from opening your tradingview chart! ![Chart icon](documentation-images/tradehistoryTradingviewchartIcon.PNG)
