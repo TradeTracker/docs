@@ -35,13 +35,15 @@ When the symbol of the market is filled in accordingly, live P/L will be shown i
 
 ![Entry/Exit Form](documentation-images/tradesetuppageEntryform.png)
 
+* Entry / Exit forms work and look identical.
+
 |Variable|Description|
 |--|--|
 |Quantity|Amount of shares|
 |Price|Price of shares|
 |Order type|`limit` or `market` order, which often differ in fee's.|
 
-* Entry/Exit forms work look identical.
+
 
 ### Calculations
 Based on the variables that were typed in, the following values are calculated:
