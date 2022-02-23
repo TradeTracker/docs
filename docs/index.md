@@ -44,7 +44,7 @@ A new row appeared:
 ![Portfolio](documentation-images/portfolios.PNG)
 
 * **Exchange:** 
-By selecting an Exchange Platform by choice, the app recoginises the price-tickers from the markets available to trade on that exchange.
+Select the Exchange Platform, the app recoginises the price-tickers from the markets available to trade on that exchange.
 If your exchange is not listed, please contact us and we will add it as soon as possible.
 
 * **Fees:** 
