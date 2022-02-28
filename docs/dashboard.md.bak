@@ -39,26 +39,30 @@ You can find more about tags on [the tags documentation page.](../tags)
 
 |Value|Description|
 |--|--|
-|Balance|Description|
-|Total Return|Description|
-|Unrealized|Description|
-|Deposited|Description|
-|Daily rate of return|Description|
-|Withdrawn|Description|
-|Largest winner|Description|
-|Largest Loser|Description|
-|Maximum Drawdown|Description|
-|Avg. holding time|Description|
-|Average R|Description|
-|Average Risk %|Description|
+|Balance|Portfolio balance at this time.|
+|Total Return|Total percentage of profit over your deposits.|
+|Unrealized|Unrealized profit of open positions.|
+|Deposited|The sum of all the deposits in the portfolio.|
+|Daily rate of return|Profit percentage devided by the sum of the days between today and the first deposit.|
+|Withdrawn|Total amount withdrawn from the portfolio, valued in portfolios base currency.|
+|Largest winner|Largest winner valued in portfolios base currency.|
+|Largest Loser|Largest losers valued in portfolios base currency.|
+|Maximum Drawdown|The lowest point of portfolio drawdown.|
+|Avg. holding time|The average holding time of all the trades in the portfolio.|
+|Average R|Average profit of all trades in the portfolio, valued in risk-units.|
+|Average Risk %|Average risk percentage of all trades in the portfolio|
 
 ### Cumulative PNL %
 Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
 ![CumulativePNL](documentation-images/cumulativepnl.png)
 
 ### Drawdown %
-Line chart that displays the amount of drawdown you have had in percentage.
+The drawdown chart shows the peak drawdowns of the portfolio. The drawdown chart is quoted as the percentage between the peak and the subsequent through.
+Dawdown is an important to metric to measure, comparing portfolio performance or menitoring personal trading performance.
+
 ![Drawdown](documentation-images/drawdown.png)
+
+*Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.
 
 ### PNL %
 Bar chart that displays your trades PNL in percentage per trade.

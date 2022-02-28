@@ -53,15 +53,19 @@ You can find more about tags on [the tags documentation page.](../tags)
 |Average Risk %|Average risk percentage of all trades in the portfolio|
 
 ### Cumulative PNL %
-Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
+Line chart includes all your trades PNL in percentage, adjusted to your total deposits. This chart provides an easy way to understand and visualize the effects that your trades have on the portfolio.
 ![CumulativePNL](documentation-images/cumulativepnl.png)
 
 ### Drawdown %
-Line chart that displays the amount of drawdown you have had in percentage.
+The drawdown chart shows the peak drawdowns of the portfolio. The drawdown chart is quoted as the percentage between the peak and the subsequent through.
+Dawdown is an important to metric to measure, comparing portfolio performance or menitoring personal trading performance.
+
 ![Drawdown](documentation-images/drawdown.png)
 
+*Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.
+
 ### PNL %
-Bar chart that displays your trades PNL in percentage per trade.
+gdsgsdg
 ![PNL%](documentation-images/pnlpercent.png)
 
 #### Risk %
