@@ -63,7 +63,7 @@ Drawdown refers to how much the trading account is down from the peak, before it
 
 ![Drawdown](documentation-images/drawdown.png)
 
-*Dawdown is an important to metric to measure, comparing portfolio performance or menitoring personal trading performance.*
+*Dawdown is an important metric to measure portfolio performance or monitor personal trading performance.*
 
 ### PNL %
 gdsgsdg

@@ -58,11 +58,12 @@ Line chart includes all your trades PNL in percentage, adjusted to your total de
 
 ### Drawdown %
 The drawdown chart shows the peak drawdowns of the portfolio. The drawdown chart is quoted as the percentage between the peak and the subsequent through.
-Dawdown is an important to metric to measure, comparing portfolio performance or menitoring personal trading performance.
+
+Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.
 
 ![Drawdown](documentation-images/drawdown.png)
 
-*Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.*
+*Dawdown is an important to metric to measure, comparing portfolio performance or menitoring personal trading performance.*
 
 ### PNL %
 gdsgsdg
