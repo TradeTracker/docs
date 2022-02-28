@@ -62,7 +62,7 @@ Dawdown is an important to metric to measure, comparing portfolio performance or
 
 ![Drawdown](documentation-images/drawdown.png)
 
-*Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.
+*Drawdown refers to how much the trading account is down from the peak, before it recovers back to the peak.*
 
 ### PNL %
 gdsgsdg
