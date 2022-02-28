@@ -15,41 +15,42 @@ The balance chart illustrates all transactions of the portfolio, including trade
 ![Balance](documentation-images/balance.png)
 
 ### Tags
-Tags can be added to trades at the trade setup page. This chart illustrates the average PNL% of each tag label.
+Tags will help to categorize trades based on specific labels.
+Categorize the trades with tags to see which category tags are profitable to trade and which ones are not. 
+It helps identify which strategies, patterns or mistakes yield the biggest wins or losses.
+
 ![Tags](documentation-images/tagschart.png)
+
+You can find more about tags on [the tags documentation page.](../tags)
 
 ### General data
 ![General data](documentation-images/dashboardgeneraldataleft.PNG)
 
 |Value|Description|
 |--|--|
-|Average Profit|Description|
-|Average Loss|Description|
-|Profit Factor|Description|
-|Value|Description|
-|--|--|
-|Winning Longs|Description|
-|Winning Shorts|Description|
-|Win Ratio|Description|
+|Average Profit|The average percentage of all the winning trades in the portfolio.|
+|Average Loss|The average percentage of all the losing trades in the portfolio.|
+|Profit Factor|Profit devided by loss. If the profit factor is below 1, it signals that your strategy is unprofitable.|
+|Winning Longs|Winning longs vs total longs in the portfolio.|
+|Winning Shorts|Winning shorts vs total shorts in the portfolio.|
+|Win Ratio|The win ratio of all the trades in the portfolio|
 
 ![General data](documentation-images/dashboardgeneraldataright.PNG)
 
 |Value|Description|
 |--|--|
-|Balance|Description|
-|Total Return|Description|
-|Unrealized|Description|
-|Deposited|Description|
-|Daily rate of return|Description|
-|Withdrawn|Description|
-|Value|Description|
-|--|--|
-|Largest winner|Description|
-|Largest Loser|Description|
-|Maximum Drawdown|Description|
-|Avg. holding time|Description|
-|Average R|Description|
-|Average Risk %|Description|
+|Balance|Portfolio balance at this time.|
+|Total Return|Total percentage of profit over your deposits.|
+|Unrealized|Unrealized profit of open positions.|
+|Deposited|The sum of all the deposits in the portfolio.|
+|Daily rate of return|Profit percentage devided by the sum of the days between today and the first deposit.|
+|Withdrawn|Total amount withdrawn from the portfolio, valued in portfolios base currency.|
+|Largest winner|Largest winner valued in portfolios base currency.|
+|Largest Loser|Largest losers valued in portfolios base currency.|
+|Maximum Drawdown|The lowest point of portfolio drawdown.|
+|Avg. holding time|The average holding time of all the trades in the portfolio.|
+|Average R|Average profit of all trades in the portfolio, valued in risk-units.|
+|Average Risk %|Average risk percentage of all trades in the portfolio|
 
 ### Cumulative PNL %
 Line chart includes all your trades PNL in percentage, adjusted to your total deposits.
