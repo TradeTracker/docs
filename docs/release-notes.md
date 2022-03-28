@@ -7,7 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Updated the charts in light theme.
  * Really fixed the bug with theme switching.
- * (Experimental) Added chart for PNL% vs. Holding time (IN DAYS).
+ * (Experimental) Added chart for PNL% vs. Holding time (in days).
 
 ## 2022-03-17
 
