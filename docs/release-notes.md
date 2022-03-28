@@ -3,6 +3,11 @@
 Since we have started our open beta program, we'd also like to show which features have been implemented lately.
 If you want to request a feature, please shoot us a message on [Discord](https://dddheff.r.af.d.sendibt2.com/tr/cl/UT8I96hC9DLmYRMx9QF3i1KZk4h1nKvmFtwV73SeaIsysSV477-4TAosep86UbCUB0v7GhSTMNP_1I4EqOFuoEb8T_gTV0VgOCbBlMkuz7LxK4lJbFgaW7iPPulNf2UVovjHVmlqbEdSwH_elkqdpRjcA447txiVMOqHR9W27Udoxp2IlopdD5A5giQ3FYuqJ02kk6wRhQ), or create an issue on [GitHub](https://github.com/TradeTracker/issues). We'd love to have your feedback, and ideas!
 
+## 2022-03-28
+
+ * Updated the charts in light theme.
+ * Really fixed the bug with theme switching.
+
 ## 2022-03-17
 
  * Launched a new website: https://www.tradetracker.app.
