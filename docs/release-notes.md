@@ -8,6 +8,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
  * Updated the charts in light theme.
  * Really fixed the bug with theme switching.
  * (Experimental) Added chart for PNL% vs. Holding time (in days).
+ * (Experimental) Added expected risk vs. actual risk.
 
 ## 2022-03-17
 
