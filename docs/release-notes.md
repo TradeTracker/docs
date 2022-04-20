@@ -7,6 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Added functionality to add multiple TradingView charts as image.
  * Risk/reward page displays the risk in the portfolio currency next to the target risk setting.
+ * Fixed the exceeded risk calculation on the risk/reward page.
 
 ## 2022-04-18
 
