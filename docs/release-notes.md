@@ -6,6 +6,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 ## 2022-04-21
 
  * Deployed a potential fix for the issues where trades are locked and cannot be deleted for a few hours.
+ * Added ticker support for OKex.
 
 ## 2022-04-19
 
