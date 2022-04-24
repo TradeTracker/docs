@@ -5,7 +5,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
 ## 2022-04-24
 
- * Added information badges to risk/reward page about: `2R+`, `5R+`, `exceeded risk`, and `stopped out`.
+ * Added information badges to risk/reward page. Added badges are `2R+`, `5R+`, `exceeded risk`, and `stopped out`.
 
 ## 2022-04-21
 
