@@ -7,6 +7,7 @@ If you want to request a feature, please shoot us a message on [Discord](https:/
 
  * Implemented an equity simulator.
  * Badges have their text set to `whitespace: nowrap` to fix a minor inconvience in the mobile layout.
+ * Deployed a hotfix for an issue with the order type on the trade setup page.
 
 ## 2022-05-16
 
