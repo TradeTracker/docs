@@ -17,7 +17,7 @@ The equity simulator simulates data based on the following statistical parameter
 Your balance, Win rate, R Ratio and Risk % per trade.
 
 There is a limit on the amount of trades capped to 200 and maximal 20 different simulation lines at the same time.
-The 20 simulation lines are summed up to a Maximal, Minimal and Average result. The thick green line on the chart is the average.
+The 20 simulation lines are used to calculate the Maximal, Minimal and Average result. The thick green line on the chart is the average.
 
 ## Metrics
 The table below summurises all the metrics that can be simulated by the equity simulator.
