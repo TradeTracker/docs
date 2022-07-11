@@ -1,0 +1,702 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.3.8">
+    
+    
+      
+        <title>TradeTracker - Documentation</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.1d29e8d0.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.cbb835fc.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#000000">
+        
+      
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+    <script>__md_scope=new URL(".",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="black" data-md-color-accent="">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#get-started" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="TradeTracker - Documentation" class="md-header__button md-logo" aria-label="TradeTracker - Documentation" data-md-component="logo">
+      
+  <img src="img/favicon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            TradeTracker - Documentation
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Get started
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Clear" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="TradeTracker - Documentation" class="md-nav__button md-logo" aria-label="TradeTracker - Documentation" data-md-component="logo">
+      
+  <img src="img/favicon.png" alt="logo">
+
+    </a>
+    TradeTracker - Documentation
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Get started
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Get started
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    Getting started
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#account-creation" class="md-nav__link">
+    Account creation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#overview-of-the-ui" class="md-nav__link">
+    Overview of the UI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#demonstration" class="md-nav__link">
+    Demonstration
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-ready" class="md-nav__link">
+    Getting ready
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting ready">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#create-a-portfolio" class="md-nav__link">
+    Create a portfolio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#switch-to-the-portfolio" class="md-nav__link">
+    Switch to the portfolio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#create-a-new-transaction" class="md-nav__link">
+    Create a new transaction
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="accountmanagement/" class="md-nav__link">
+        Account management
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="calculator/" class="md-nav__link">
+        Position size calculator
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="dashboard/" class="md-nav__link">
+        Dashboard
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="equitysimulator/" class="md-nav__link">
+        Equity Simulator
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="expectedvsactualr/" class="md-nav__link">
+        Expected vs actual R
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="faq/" class="md-nav__link">
+        FAQ
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="release-notes/" class="md-nav__link">
+        Release notes
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="riskofloss/" class="md-nav__link">
+        Risk of loss
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tags/" class="md-nav__link">
+        Tags
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tips/" class="md-nav__link">
+        Tips to improve your trading
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tradehistory/" class="md-nav__link">
+        Trade History
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="tradesetuppage/" class="md-nav__link">
+        Trade Setup Page
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#getting-started" class="md-nav__link">
+    Getting started
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting started">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#account-creation" class="md-nav__link">
+    Account creation
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#overview-of-the-ui" class="md-nav__link">
+    Overview of the UI
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#demonstration" class="md-nav__link">
+    Demonstration
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#getting-ready" class="md-nav__link">
+    Getting ready
+  </a>
+  
+    <nav class="md-nav" aria-label="Getting ready">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#create-a-portfolio" class="md-nav__link">
+    Create a portfolio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#switch-to-the-portfolio" class="md-nav__link">
+    Switch to the portfolio
+  </a>
+  
+</li>
+        
+          <li class="md-nav__item">
+  <a href="#create-a-new-transaction" class="md-nav__link">
+    Create a new transaction
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="get-started">Get started</h1>
+<p>This document will help you to get started with the <a href="https://beta.tradetracker.app">TradeTracker app</a> so you can start journaling your trades efficiently. We know that no one likes reading long documentation, so we will try to keep it as short as possible.</p>
+<h2 id="getting-started">Getting started</h2>
+<h3 id="account-creation">Account creation</h3>
+<p>An account can be registered at <a href="https://beta.tradetracker.app/register">beta.tradetracker.app/register</a> in 10 seconds using only an e-mail address.</p>
+<p><img alt="Register Form" src="documentation-images/registerForm.PNG" /></p>
+<p>Once that is done, a e-mail will be send to your mailbox and you can login to your account.</p>
+<h3 id="overview-of-the-ui">Overview of the UI</h3>
+<p>This is what you see after log-in in to the app.</p>
+<p><img alt="UI" src="documentation-images/ui.png" /></p>
+<p>This screenshots below illustrate the different components.</p>
+<ul>
+<li>Portfolio switch, </li>
+<li>Calculator, </li>
+<li>New position, </li>
+<li>Account settings</li>
+</ul>
+<p><img alt="Icons" src="documentation-images/usersettingsicon.PNG" /></p>
+<p>The theme can be changed to darkmode, using the <img alt="Toggle Theme" src="documentation-images/toggleTheme.PNG" /> button in the vertical menu on the left.</p>
+<h3 id="demonstration">Demonstration</h3>
+<p>On the first login, an portfolio with demo trades will get generated to give a feeling of the possibilities and features the app delivers.</p>
+<h2 id="getting-ready">Getting ready</h2>
+<p>However, you want to start with a new, fresh portfolio, a clean empty dashboard.</p>
+<p>Once you're ready, here is how you set it up:</p>
+<h3 id="create-a-portfolio">Create a portfolio</h3>
+<p>Go to the <code>Portfolios</code> page in the menu and <a href="https://beta.tradetracker.app/portfolios#new">create a new portfolio</a> by clicking on the add button.</p>
+<p><img alt="Add button" src="documentation-images/addButton.PNG" /></p>
+<p>A new row appeared:</p>
+<p><img alt="Portfolio" src="documentation-images/portfolios.PNG" /></p>
+<ul>
+<li>
+<p><strong>Exchange:</strong> 
+Select the Exchange Platform, the app recognises the price-tickers from the markets available to trade on that exchange.
+If your exchange is not listed, please contact us and we will add it as soon as possible.</p>
+</li>
+<li>
+<p><strong>Fees:</strong> 
+Check if the default fee setting correspond with the fee tier based on your trading volume (exchanges give often discounts on fees when having $100,000 + monthly volume).</p>
+</li>
+<li>
+<p><strong>Target Risk:</strong> 
+Fill in a target Risk%, so the position size calculator remembers how much risk you are willing to take.</p>
+</li>
+</ul>
+<p>After filling in the portfolio form, click on the save button on the right side.
+<img alt="Save Button" src="documentation-images/saveButtonForm.PNG" /></p>
+<h3 id="switch-to-the-portfolio">Switch to the portfolio</h3>
+<p>Switch the portfolio from the <code>demo</code> portfolio to the new one. This is done using the portfolio selector, in the top-right corner of the app.</p>
+<p><img alt="Switch portfolio" src="documentation-images/switch.png" /></p>
+<p>You're now inside the portfolio, by having selected it with the switch.</p>
+<h3 id="create-a-new-transaction">Create a new transaction</h3>
+<p>Every portfolio starts with a first transaction valued by the number of the capital that is sitting on your exchange and the amount you want to trade with. 
+The purpose of doing this is because the value of your portfolio is used to calculate percentages and other values of the portfolio.</p>
+<p><img alt="Transaction" src="documentation-images/transaction.PNG" /></p>
+<p>The process of creating a transaction is simple, just like creating a portfolio. Go to <code>Transactions</code>, and <a href="https://beta.tradetracker.app/transactions#new">add a transaction type deposit</a> and fill in the number.</p>
+<p>That's it, the portfolio is ready to be used!</p>
+
+              
+            </article>
+            
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+      
+        
+        <a href="accountmanagement/" class="md-footer__link md-footer__link--next" aria-label="Next: Account management" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Account management
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.expand"], "search": "assets/javascripts/workers/search.b97dbffb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.0238f547.min.js"></script>
+      
+        <script src="javascripts/config.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
